@@ -16,7 +16,7 @@ page:
   template: _page.txt
   extension: md
 
-staticmanUrl: https://gautschbrett.herokuapp.com/v2/entry/knautschzone/filmprojektor/master/comments
+staticmanUrl: https://gautschbrett.herokuapp.com/v2/entry/knautschzone/filmprojektor/main/comments
 
 collections:
   - comments
