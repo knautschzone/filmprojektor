@@ -107,7 +107,5 @@ Weitermachen und Nach-vorne-schauen ist, wofür er am Ende auch belohnt wird. In
 der Haltung dieses scheinbar so einfachen Mannes steckt eine tiefe Weisheit, die nicht
 verbalisiert zu werden braucht, weil sie sich in der alltäglichen Lebenspraxis »zeigt«.
 
-C.G.
-
 
 
