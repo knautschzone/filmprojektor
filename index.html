@@ -1,31 +1,49 @@
 ---
 layout: default
-title: Filmprojektor.net
+title: filmprojektor.net
 nav_exclude: true
 ---
+
 {% include dates-german.html date=site.posts.first.date showDay=true %}
 
-<h1>{{ site.posts.first.title }} </h1>  
+<h1>{{ site.posts.first.title }} <span class="commentdate">{{ formattedDate }}</span></h1>
+<h2 class="subtitle">{{site.posts.first.subtitle}}</h2>
 
 
 <div>{{ site.posts.first.content }}</div> 
-<div class="post-credits"> {{site.posts.first.author}}, {{ formattedDate }}.</div>
+<div class="post-credits"> {{site.posts.first.author}}</div>
 
-<h3>Kommentar verfassen</h3>
+<div class="commentsection">
 
-<form class="kommentarsektion" method="post" action="{{ site.staticmanUrl }}" autocomplete="off">
-  <input type="hidden" name="fields[title]" value="{{ site.posts.first.title }}">
-  <input type="hidden" name="options[redirect]" value="https://knautschzone.github.io/trying-tufte/comment-success.html">
 
-  <label for="name">Name</label>
-  <input type="text" name="fields[name]">
+  <h3>Kommentar verfassen</h3>
+
+  <form class="kommentarsektion" method="post" action="{{ site.staticmanUrl }}" autocomplete="off">
+    <input type="hidden" name="fields[title]" value="{{ site.posts.first.title }}">
+    <input type="hidden" name="options[redirect]" value="https://knautschzone.github.io/trying-tufte/comment-success.html">
   
-  <label for="kommentar">Kommentar</label>
-    <textarea class="kommentarbox" name="fields[message]" type="text" ></textarea>
+    <label for="name">Name</label>
+    <input type="text" name="fields[name]">
+    
+    <label for="kommentar">Kommentar</label>
+      <textarea class="kommentarbox" name="fields[message]" type="text" ></textarea>
   
-
-
-  <input class="submitbutton" type="submit" value="Abschicken">
-</form> 
+    <input class="submitbutton" type="submit" value="Abschicken">
+  </form> 
+  
+  {% assign first = false %}
+  {% for comment in site.comments %}
+  {% include dates-german.html date=comment.date showDay=true %}
+  {% if comment.title == site.posts.first.title %}
+      {% if first == false %}
+      <h3>Kommentare</h3>
+      {% assign first = true %}
+      {% endif %}
+      <h4>{{comment.name}}<span class="commentdate">{{ formattedDate }}</span></h4>
+      <p>{{comment.content}}</p>
+  
+  {% endif %}
+  {% endfor %}
+  </div>
 
 <p></p>

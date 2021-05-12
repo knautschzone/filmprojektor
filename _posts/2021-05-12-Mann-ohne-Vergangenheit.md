@@ -96,7 +96,7 @@ könnte, die er aber außer kraft setzt und somit einen neuen Handlungsspielraum
 gewinnt, den er konkret für sich zu nutzen weiß. Dies ist ein Ausdruck der tiefen
 Menschlich- und Mitmenschlichkeit der Filme Aki Kaurismäkis. Im Prinzip könnte
 man seine Filme auch als Meditationen über das christliche Gebot der Nächstenliebe
-begreifen. Jedenfalls sind die drei zentralen Gebote Jesu – »Glaube, Liebe, Hoffnung« –
+begreifen. Jedenfalls sind die drei zentralen paulinischen Gebote – »Glaube, Liebe, Hoffnung« –
 in allen Filmen präsent.
 
 Walter Benjamin schreibt am Ende seines Essays über Goethes »Wahlverwandtschaften«: »Die Hoffnung ist uns nur um der Hoffnungslosen willen gegeben«;{% sidenote 'sn-id-1' 'Walter Benjamin: *Goethes Wahlverwandschaften.* In: Illuminationen. Suhrkamp Verlag. Frankfurt a.M. 1977, S. 135.'%} der
