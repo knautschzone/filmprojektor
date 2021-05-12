@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trying-tufte</title>
-    <description>A Jekyll theme for content-rich sites</description>
-    <link>http://localhost:4000/trying-tufte/</link>
-    <atom:link href="http://localhost:4000/trying-tufte/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 May 2021 18:46:15 +0200</pubDate>
-    <lastBuildDate>Wed, 12 May 2021 18:46:15 +0200</lastBuildDate>
+    <title>Filmprojektor</title>
+    <description>Ein Blog über Filme</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 May 2021 19:41:13 +0200</pubDate>
+    <lastBuildDate>Wed, 12 May 2021 19:41:13 +0200</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -24,7 +24,7 @@ Mannes an und verschwindet. Dort am Boden liegend erwacht er irgendwann, rettet
 sich mit letzter Kraft in ein Gebäude, blutüberströmt, und bricht auf einer öffentlichen
 Toilette in sich zusammen.&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/trying-tufte/assets/img/mann-ohne-ver-1.png&quot; /&gt;&lt;figcaption&gt;Der Protagonist (Markku Peltolta) wird verprügelt und ausgeraubt. &lt;em&gt;(©  Pandora Film / Pyramide Productions / Arte)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/mann-ohne-ver-1.png&quot; /&gt;&lt;figcaption&gt;Der Protagonist (Markku Peltolta) wird verprügelt und ausgeraubt. &lt;em&gt;(©  Pandora Film / Pyramide Productions / Arte)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Man findet ihn, bringt ihn in ein Krankenhaus; in der nächsten Einstellung wird er in einem Bett liegend mit vollkommen bandagiertem Kopf
 gezeigt. Eine Schwester ist bei ihm, sein Puls wird flacher und schließlich hört sein
@@ -77,7 +77,7 @@ Auf dem Müll findet er eine alte Jukebox, die er repariert und aufbaut. Im Frü
 pflanzt er zwei Kartoffeln und eine Zwiebel an und von der Ernte kocht er irgendwann
 seine erste Suppe.&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/trying-tufte/assets/img/mann-ohne-ver-2.png&quot; /&gt;&lt;figcaption&gt;Mehr als eine halbe Kartoffel bekommt Nieminen (Juhani Niemelä) nicht. &lt;em&gt;(©  Pandora Film / Pyramide Productions / Arte)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/mann-ohne-ver-2.png&quot; /&gt;&lt;figcaption&gt;Mehr als eine halbe Kartoffel bekommt Nieminen (Juhani Niemelä) nicht. &lt;em&gt;(©  Pandora Film / Pyramide Productions / Arte)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Als er mit der Familie eines Sonntags Essen geht (zur Suppenküche!),
 lernt er Irma (Kati Outinen) kennen, die für die Heilsarmee arbeitet und ihm ihre Visitenkarte mit der Adresse der lokalen Altkleidersammlung gibt, wo er sich neu einkleiden soll, da ihn so keiner ernstnähme. In dem Kaufhaus der Heilsarmee findet er seine
@@ -114,8 +114,8 @@ verbalisiert zu werden braucht, weil sie sich in der alltäglichen Lebenspraxis 
 
 </description>
         <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/trying-tufte/articles/21/Mann-ohne-Vergangenheit</link>
-        <guid isPermaLink="true">http://localhost:4000/trying-tufte/articles/21/Mann-ohne-Vergangenheit</guid>
+        <link>http://localhost:4000/articles/21/Mann-ohne-Vergangenheit</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Mann-ohne-Vergangenheit</guid>
         
         
         <category>post</category>
@@ -224,7 +224,7 @@ $link-style: color; // choices are 'color' or 'underline'. Default is color usin
 
 &lt;h3 id=&quot;margin-figures&quot;&gt;Margin Figures&lt;/h3&gt;
 
-&lt;p&gt;&lt;label for=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/trying-tufte/assets/img/rhino.png&quot; /&gt;&lt;br /&gt;F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” &lt;em&gt;Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice&lt;/em&gt; (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s &lt;em&gt;Visual Explanations&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/rhino.png&quot; /&gt;&lt;br /&gt;F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” &lt;em&gt;Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice&lt;/em&gt; (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s &lt;em&gt;Visual Explanations&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_plugins&lt;/code&gt; directory like so:&lt;/p&gt;
 
@@ -242,7 +242,7 @@ $link-style: color; // choices are 'color' or 'underline'. Default is color usin
 
 &lt;p&gt;Yields this:&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/trying-tufte/assets/img/napoleons-march.png&quot; /&gt;&lt;figcaption&gt;Napoleon’s March &lt;em&gt;(Edward Tufte’s English translation)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/napoleons-march.png&quot; /&gt;&lt;figcaption&gt;Napoleon’s March &lt;em&gt;(Edward Tufte’s English translation)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;main-column-figures&quot;&gt;Main Column Figures&lt;/h3&gt;
 
@@ -252,7 +252,7 @@ $link-style: color; // choices are 'color' or 'underline'. Default is color usin
 
 &lt;p&gt;yields this:&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/trying-tufte/assets/img/exports-imports.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;From Edward Tufte, &lt;em&gt;Visual Display of Quantitative Information&lt;/em&gt;, page 92&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/img/exports-imports.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;From Edward Tufte, &lt;em&gt;Visual Display of Quantitative Information&lt;/em&gt;, page 92&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;sidenotes-and-margin-notes&quot;&gt;Sidenotes and Margin notes&lt;/h2&gt;
 
@@ -569,8 +569,8 @@ etc...
 
 </description>
         <pubDate>Sun, 13 Dec 2020 10:46:04 +0100</pubDate>
-        <link>http://localhost:4000/trying-tufte/articles/20/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">http://localhost:4000/trying-tufte/articles/20/tufte-style-jekyll-blog</guid>
+        <link>http://localhost:4000/articles/20/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/20/tufte-style-jekyll-blog</guid>
         
         
         <category>jekyll</category>
@@ -675,11 +675,11 @@ using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are n
 &lt;p&gt;This code: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{% fullwidth &quot;assets/img/rhino.png&quot; &quot;Tuftes pet rhino (via &amp;lt;a href=\&quot;//www.edwardtufte.com/tufte/\&quot;&amp;gt;Edward Tufte&amp;lt;/a&amp;gt;)&quot;  %}&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;produces the following image with a title. Notice that I have had to escape the double quotes in the HTML with a backslash. Also, the example above leaves out the single quote in ‘Tufte’s” because of the topsy-turvy way that you have to escape the escapes in code sections that are used for illustrative purposes in this text. Bottom line is that there are occasionally some odd interactions between the Markdown parser, custom &lt;em&gt;Liquid&lt;/em&gt; tags and HTML.&lt;/p&gt;
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/trying-tufte/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Sat, 13 Apr 2019 19:04:01 +0200</pubDate>
-        <link>http://localhost:4000/trying-tufte/articles/19/Edge-Cases</link>
-        <guid isPermaLink="true">http://localhost:4000/trying-tufte/articles/19/Edge-Cases</guid>
+        <link>http://localhost:4000/articles/19/Edge-Cases</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/19/Edge-Cases</guid>
         
         
         <category>post</category>
