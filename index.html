@@ -1,0 +1,31 @@
+---
+layout: default
+title: Starseite
+nav_exclude: true
+---
+{% include dates-german.html date=site.posts.first.date showDay=true %}
+
+<h1>{{ site.posts.first.title }} </h1>  
+
+
+<div>{{ site.posts.first.content }}</div> 
+<div class="post-credits"> {{site.posts.first.author}}, {{ formattedDate }}.</div>
+
+<h3>Kommentar verfassen</h3>
+
+<form class="kommentarsektion" method="post" action="{{ site.staticmanUrl }}" autocomplete="off">
+  <input type="hidden" name="fields[title]" value="{{ site.posts.first.title }}">
+  <input type="hidden" name="options[redirect]" value="https://knautschzone.github.io/trying-tufte/comment-success.html">
+
+  <label for="name">Name</label>
+  <input type="text" name="fields[name]">
+  
+  <label for="kommentar">Kommentar</label>
+    <textarea class="kommentarbox" name="fields[message]" type="text" ></textarea>
+  
+
+
+  <input class="submitbutton" type="submit" value="Abschicken">
+</form> 
+
+<p></p>

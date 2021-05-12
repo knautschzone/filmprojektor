@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="container">
+    <div class="content-wrap">
+    {% include header.html %}
+    <article class="group">
+      {{ content }}
+    </article>
+  </div>
+    {% include print-footer.html %}
+    {% include footer.html %}
+  </div>
+  </body>
+</html>

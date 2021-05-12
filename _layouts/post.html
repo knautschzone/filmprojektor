@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% include dates-german.html date=page.date showDay=true %}
+
+<h1>{{ page.title}} <span class="commentdate">{{ formattedDate }}</span></h1>
+<h2 class="subtitle">{{page.subtitle}}</h2>
+
+
+{{ content }}
+
+<div class="commentsection">
+
+
+{% include comment-form.html %}
+{% assign first = false %}
+{% for comment in site.comments %}
+{% include dates-german.html date=comment.date showDay=true %}
+{% if comment.title == page.title %}
+    {% if first == false %}
+    <h3>Kommentare</h3>
+    {% assign first = true %}
+    {% endif %}
+    <h4>{{comment.name}}<span class="commentdate">{{ formattedDate }}</span></h4>
+    <p>{{comment.content}}</p>
+
+{% endif %}
+{% endfor %}
+</div>

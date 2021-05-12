@@ -1,0 +1,15 @@
+---
+layout: default
+title: Archiv
+---
+
+
+
+<ul class="content-listing ">
+  {% for post in site.posts %}      
+  {% include dates-german.html date=post.date showDay=true %}
+      <li class="listing">
+        <span>{{ formattedDate }} | <a href="{{ post.url | prepend: site.baseurl }}"></span>{{ post.title }}</a> <span>| {{post.subtitle}}</span>
+      </li>
+  {% endfor %}
+</ul>

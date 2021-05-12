@@ -1,0 +1,27 @@
+baseurl: /trying-tufte
+title: Trying-tufte
+subtitle: Content-centric blogging
+author: clay harmon
+description: A Jekyll theme for content-rich sites
+name: tufte
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:short_year/:title
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+destination: docs/
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+
+staticmanUrl: https://gautschbrett.herokuapp.com/v2/entry/knautschzone/trying-tufte/master/comments
+
+collections:
+  - comments
+
+collections:
+  comments:
+    sort_by: datum

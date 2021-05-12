@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="vertical-stretch"></div>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:knautschzone@mailbox.org"><span class="icon-mail3"></span></a></li>    
+    {% for entry in site.data.social %}
+      <li>
+        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+      </li>
+    {% endfor %}  
+    <li> <a href="">DSGVO</a></li>
+  </ul>
+ </footer>

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Edge Cases</title>
+  <meta name="description" content="Some edge cases and cautionary examples on using Markdown for writing content using this theme. In particular, list syntax can really knot things up.">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/trying-tufte/css/tufte.css">
+  <link rel="stylesheet" type="text/css" href="/trying-tufte/css/site.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/trying-tufte/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/trying-tufte/articles/19/Edge-Cases">
+
+  <link rel="alternate" type="application/rss+xml" title="Trying-tufte" href="http://localhost:4000/trying-tufte/feed.xml" />
+</head>
+
+  <body>
+    <div class="container">
+    <div class="content-wrap">
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a class="sign__word" href="/trying-tufte/">filmprojektor</a>
+	
+		
+		    
+		      <a class="navlink" href="/trying-tufte/archive">Archiv</a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a class="navlink" href="/trying-tufte/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+	</nav>
+</header>
+    <article class="group">
+      
+
+
+
+
+
+
+
+
+
+
+<h1>Edge Cases <span class="commentdate">13. April 2019</span></h1>
+<h2 class="subtitle">Just a post</h2>
+
+
+<p>Some edge cases and cautionary examples on using Markdown for writing content using this theme. In particular, list syntax can really knot things up.
+<!--more--></p>
+
+<h3 id="mathjax-improperly-parsing-greater-and-less-than-and-ampersands-inside-blocks">Mathjax improperly parsing greater and less than and ampersands inside blocks</h3>
+
+<p>The mathjax HTML <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code> scripts have been modified to properly render block style mathjax expressions inside a <code class="language-plaintext highlighter-rouge">$$ ... $$</code> set of character pairs,
+using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are now parsing correctly, I believe.</p>
+
+<p>T</p>
+
+<h3 id="no-blank-lines-between-markdown-list-items">No blank lines between Markdown list items</h3>
+
+<p>The issue arises when sidenotes and marginnotes are put into list items.  As mentioned in the main documentation page, lists can be problematic not only for semantic clarity, but also because they can creating formatting issues. For example:</p>
+
+<h3 id="related-algorithms">Related algorithms</h3>
+
+<ul>
+  <li>Split Bregman iteration <label for="1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="1" class="margin-toggle" /><span class="sidenote">Goldstein, T. and Osher, S. (2009). The split Bregman method for l1-regularized problems. SIAM J. Img. Sci., 2:323-343. </span></li>
+  <li>Dykstra’s alternating projection algorithm <label for="2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="2" class="margin-toggle" /><span class="sidenote">Dykstra, R. L. (1983). An algorithm for restricted least squares regression. J. Amer. Statist. Assoc., 78(384):837-842. </span></li>
+  <li>Proximal point algorithm applied to the dual</li>
+  <li>Numerous applications in statistics and machine learning: lasso, gen. lasso, graphical lasso, (overlapping) group lasso, …</li>
+  <li>Embraces distributed computing for big data <label for="3" class="margin-toggle sidenote-number"></label><input type="checkbox" id="3" class="margin-toggle" /><span class="sidenote">Boyd, S., Parikh, N., Chu, E., Peleato, B., and Eckstein, J. (2011). Distributed optimization and statistical learning via the alternating direction method of multipliers. Found. Trends Mach. learn., 3(1):1-122. </span></li>
+</ul>
+
+<h3 id="why-this-matters">Why this matters</h3>
+
+<p>Notice how the sidenotes display properly, but the fact that sidenotes have more display ‘volume’ than the list items themselves causes a horizontal mismatch between the sidenote item’s number and its corresponding list item.</p>
+
+<p>Please note that there must be <em>no blank lines between your list items</em>. This is due to a really strange thing about the Jekyll Markdown engine I have never noticed before. If you have a list, and you put a blank line between the items like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  + list item 1
+
+  + list item 2
+</code></pre></div></div>
+
+<p>It will create an html tag structure like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;ul&gt;
+   &lt;li&gt;
+      &lt;p&gt;list item 1&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+      &lt;p&gt;list item 2&lt;/p&gt;
+   &lt;/li&gt;
+&lt;/ul&gt;
+</code></pre></div></div>
+<p>Which <em>totally</em> goofs up the layout CSS.</p>
+
+<p>However, if your Markdown is this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    + list item 1
+    + list item 2
+</code></pre></div></div>
+
+<p>It will create a tag structure like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;ul&gt;
+   &lt;li&gt;list item 1&lt;/li&gt;
+   &lt;li&gt;list item 2&lt;/li&gt;
+&lt;/ul&gt;
+</code></pre></div></div>
+
+<p>Here is the same content as above, with a blank line separating the list items. Notice how the sidenotes get squashed into the main content area:</p>
+
+<h3 id="remarks-on-admm-version-2---one-blank-line-between-markdown-list-items">Remarks on ADMM version 2 - <strong>one blank line</strong> between Markdown list items</h3>
+
+<p>Related algorithms</p>
+
+<ul>
+  <li>
+    <p>Split Bregman iteration <label for="1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="1" class="margin-toggle" /><span class="sidenote">Goldstein, T. and Osher, S. (2009). The split Bregman method for l1-regularized problems. SIAM J. Img. Sci., 2:323-343. </span></p>
+  </li>
+  <li>
+    <p>Dykstra’s alternating projection algorithm <label for="2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="2" class="margin-toggle" /><span class="sidenote">Dykstra, R. L. (1983). An algorithm for restricted least squares regression. J. Amer. Statist. Assoc., 78(384):837-842. </span></p>
+  </li>
+  <li>
+    <p>Proximal point algorithm applied to the dual</p>
+  </li>
+  <li>
+    <p>Numerous applications in statistics and machine learning: lasso, gen. lasso, graphical lasso, (overlapping) group lasso, …
+<br />
+<br />
+<br />
+<br /></p>
+  </li>
+</ul>
+
+<h3 id="liquid-tag-parsing-strangeness">Liquid tag parsing strangeness</h3>
+
+<p>Example of the proper way to write an url inside a <em>Liquid</em> full-width image tag.</p>
+
+<p>This code: <code class="language-plaintext highlighter-rouge">{% fullwidth "assets/img/rhino.png" "Tuftes pet rhino (via &lt;a href=\"//www.edwardtufte.com/tufte/\"&gt;Edward Tufte&lt;/a&gt;)"  %}</code></p>
+
+<p>produces the following image with a title. Notice that I have had to escape the double quotes in the HTML with a backslash. Also, the example above leaves out the single quote in ‘Tufte’s” because of the topsy-turvy way that you have to escape the escapes in code sections that are used for illustrative purposes in this text. Bottom line is that there are occasionally some odd interactions between the Markdown parser, custom <em>Liquid</em> tags and HTML.</p>
+<figure class="fullwidth"><img src="/trying-tufte/assets/img/rhino.png" /><figcaption>Tufte&#8217;s pet rhino (via <a href="//www.edwardtufte.com/tufte/">Edward Tufte</a>)</figcaption></figure>
+
+
+<div class="commentsection">
+
+
+<h3>Kommentar verfassen</h3>
+
+<form class="kommentarsektion" method="post" action="https://gautschbrett.herokuapp.com/v2/entry/knautschzone/trying-tufte/master/comments" autocomplete="off">
+  <input type="hidden" name="fields[title]" value="Edge Cases">
+  <input type="hidden" name="options[redirect]" value="https://knautschzone.github.io/trying-tufte/comment-success.html">
+
+  <label for="name">Name</label>
+  <input type="text" name="fields[name]">
+  
+  <label for="kommentar">Kommentar</label>
+    <textarea class="kommentarbox" name="fields[message]" type="text" ></textarea>
+  
+
+
+  <input class="submitbutton" type="submit" value="Abschicken">
+</form> 
+
+<p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h3>Kommentare</h3>
+    
+    
+    <h4>ksdklsd<span class="commentdate">2. Mai 2020</span></h4>
+    <p>KLYDLJFYKJF
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h4>Anonymous<span class="commentdate">12. April 2021</span></h4>
+    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h4>sad<span class="commentdate">12. Mai 2021</span></h4>
+    <p>asd
+</p>
+
+
+
+</div>
+    </article>
+  </div>
+    <span class="print-footer">Edge Cases - April 13, 2019 - clay harmon</span>
+    <footer class="site-footer">
+  <div class="vertical-stretch"></div>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:knautschzone@mailbox.org"><span class="icon-mail3"></span></a></li>    
+    
+      <li>
+        <a href="//github.com/knautschzone"><span class="icon-github"></span></a>
+      </li>
+    
+      <li>
+        <a href="/feed.xml"><span class="icon-rss2"></span></a>
+      </li>
+      
+    <li> <a href="">DSGVO</a></li>
+  </ul>
+ </footer>
+  </div>
+  </body>
+</html>
