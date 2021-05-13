@@ -23,4 +23,4 @@ collections:
 
 collections:
   comments:
-    sort_by: datum
+    sort_by: date
