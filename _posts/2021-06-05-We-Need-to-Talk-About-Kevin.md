@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Das radikale Böse"
+title:  Das radikale Böse
 date:   2021-06-05
 categories: post
 author: C.G.
