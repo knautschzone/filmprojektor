@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Markdown Handreichung</title>
+  <meta name="description" content="Ein Blog über Filme">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <link rel="stylesheet" type="text/css" href="/css/site.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/markdown">
+
+  <link rel="alternate" type="application/rss+xml" title="Filmprojektor" href="http://localhost:4000/feed.xml" />
+  <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
+</head>
+
+  <body>
+    <div class="container">
+    <div class="content-wrap">
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a class="sign__word" href="/">filmprojektor</a>
+	
+		
+		    
+		      <a class="navlink" href="/archive">Archiv</a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a class="navlink" href="/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+  	
+	</nav>
+</header>
+    
+      
+
+
+
+
+
+
+
+
+
+
+<h1>Markdown Handreichung <span class="commentdate">5. Juni 2021</span></h1>
+<h2 class="subtitle"></h2>
+
+
+<p>filmprojektor.net arbeitet mit sogenannten Markdown-Dateien (.md), die automatisch in Html konvertiert werden. Dieser Eintrag gibt einen kurzen Überblick über die möglichen Auszeichnungsarten, das Einbinden externer Inhalte und die Angabe der »Metadaten«.</p>
+
+<h1 id="metadaten">Metadaten</h1>
+<p>Die Metadaten werden am Anfang der .md-Datei im sogenannten YAML-front matter festgelegt und jeweils durch drei einfache Bindestriche <code>---</code> abgetrennt. Ein Beispiel:</p>
+
+<p><code>--- <br />
+layout: post <br />
+title:  "Hoffnung"<br />
+date:   2021-05-12<br />
+categories: post<br />
+author: C.G.<br />
+subtitle: "Aki Kaurismäki: Der Mann ohne Vergangenheit" <br />
+---</code></p>
+
+<h1 id="auszeichnungen">Auszeichnungen</h1>
+
+<p>Die möglichen Auszeichnungen sind übernommen vom tufte-css und werden <a href="http://clayh53.github.io/tufte-jekyll/articles/20/tufte-style-jekyll-blog">hier</a> 
+genauer erläutert. Zu unterscheiden ist zwischen Überschriften, Zitaten und der Marginalienspalte und einfachen Auszeichnungen im Text.</p>
+
+<h2 id="auzeichnungen-im-text">Auzeichnungen im Text</h2>
+<p><strong>Fett darzustellender Text</strong> wird zwischen doppelten Sternchen geschrieben als <code>**fetter Text**</code>.</p>
+
+<p><em>Kursiv darzustellender Text</em> wird zwischen einfachen Sternchen geschrieben als <code>*kursiver Text*</code>.</p>
+
+<p><br /></p>
+
+<h2 id="überschriften">Überschriften</h2>
+
+<p>Überschriften werden durch Doppelkreuze <code>#</code> angezeigt; drei Ordnungen sind möglich:</p>
+
+<p><code># Überschrift</code> gibt eine Überschrift erster Ordnung:</p>
+
+<h1 id="überschrift-1">Überschrift 1</h1>
+
+<p><code>## Überschrift</code> gibt eine Überschrift zweiter Ordnung:</p>
+
+<h2 id="überschrift-2">Überschrift 2</h2>
+
+<p><code>### Überschrift</code> gibt eine Überschrift dritter Ordnung:</p>
+
+<h3 id="überschrift-3">Überschrift 3</h3>
+
+<p><br /></p>
+
+<h2 id="zitate">Zitate</h2>
+<p>Die Angabe von Zitaten folgt der Syntax:</p>
+
+<p><code>{% epigraph 'Ziterter Text' 'Zitierter Autor:in' 'Zitierte Quelle' %}</code></p>
+
+<p>Dargestellt wird das als:</p>
+<div class="epigraph"><blockquote><p>Ziterter Text</p><footer>Zitierter Autor:in, <cite>Zitierte Quelle</cite></footer></blockquote></div>
+
+<h2 id="marginalien">Marginalien</h2>
+<p>Zwei Arten von Marginalien sind möglich: Nummerierte und unnummerierte Marginalien.</p>
+
+<h3 id="unnummerierte-marginalien">Unnummerierte Marginalien</h3>
+
+<p>Unnummerierte Marginalien folgen der Syntax:</p>
+
+<p><code>{% marginnote "mn-id" "Text der unnummerierten Marginalie" %}</code></p>
+
+<p>Als <code>mn-id</code> fungiert als eindeutige Kennzeichnung. Einen Anker gibt es nicht. Die Marginalie folgt der Zeile:
+<label for="mn-id" class="margin-toggle"> ⊕</label><input type="checkbox" id="mn-id" class="margin-toggle" /><span class="marginnote">Text der Marginalie </span></p>
+
+<h3 id="nummerierte-marginalien">Nummerierte Marginalien</h3>
+<p>Nummerierte Marginalien folgen der Syntax:</p>
+
+<p><code>{% sidenote "sn-id" "Text der nummerierten Marginalie" %}</code></p>
+
+<p>Als <code>mn-id</code> fungiert als eindeutige Kennzeichnung. Dargestellt wird das eine nummerierte Marginalie mit einem Anker:
+<label for="sn-id" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-id" class="margin-toggle" /><span class="sidenote">Text der nummerierten Marginalie </span></p>
+
+<h1 id="externe-inhalte">Externe Inhalte</h1>
+<p>Sowohl das Einbinden von Videos, als auch von Fotos ist möglich. Den jeweils zu spezifizierenden Pfad würde ich beim hochladen jeweils selbst festlegen.</p>
+
+<h2 id="fotos">Fotos</h2>
+<p>Fotos können sowohl in der Marginalspalte, als auch im Fließtext und dort entweder über die gesamte Seitenbreite oder bündig zum Text angezeigt werden.</p>
+
+<h3 id="bilder-in-der-marginalspalte">Bilder in der Marginalspalte</h3>
+<p>Bilder in der Marginalspalte folgen der Syntax: <label for="mf-id" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/rhino.png" /><br />Bildunterschrift: F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” <em>Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice</em> (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s <em>Visual Explanations</em>.</span></p>
+
+<p><code>{% marginfigure "mf-id" "pfad/zum/rhino.png" "Bildunterschrift: F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” *Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice* (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s *Visual Explanations*." %}</code></p>
+
+<p>Die Zeilenhöhe der Oberkante des Bildes richtet sich einfach nach der Angabe im Text.</p>
+
+<h3 id="bilder-über-die-textbreite">Bilder über die Textbreite</h3>
+<p>Bilder, die bündig zum Text dargestellt werden, werden eingebunden mit</p>
+
+<p><code>{% maincolumn "pfad/zum/export-imports.png" "From Edward Tufte, <em>Visual Display of Quantitative Information</em>, page 92" %}</code></p>
+
+<p>Das wird dargestellt als:</p>
+<figure><img src="/assets/img/exports-imports.png" /><figcaption class="maincolumn-figure">From Edward Tufte, <em>Visual Display of Quantitative Information</em>, page 92</figcaption></figure>
+
+<h3 id="bilder-über-gesamte-seitenbreite">Bilder über gesamte Seitenbreite</h3>
+<p>Ein Bild über die gesamte Seitenbreite wird eingebunden mit</p>
+
+<p><code>{% fullwidth "pfad/zu/napoleons-march.png" "Napoleon's March (Edward Tufte’s English translation)" %}</code></p>
+
+<p>Das wird dargestellt als:</p>
+<figure class="fullwidth"><img src="/assets/img/napoleons-march.png" /><figcaption>Napoleon’s March (Edward Tufte’s English translation)</figcaption></figure>
+
+<h2 id="videos">Videos</h2>
+<p>Videos können nicht in der Marginalspalte sondern nur auf Text- oder Seitenbreite eingebunden werden; bisher ist nur youtube als Quelle möglich. Die youtube-id lässt sich über die URL ermitteln. In der Url https://www.youtube.com/watch?v=UutshUjBwTY ist die youtube-id bspw. UutshUjBwTY.</p>
+
+<h3 id="videos-über-die-textbreite">Videos über die Textbreite</h3>
+<p>Die Syntax für Videos über die Textbreite lautet:</p>
+
+<p><code>{%maincolumn "YOUTUBE:youtubeid" "Moneyboy Interview" %}</code></p>
+
+<figure><iframe class="ytplayer-smallwidth" type="text/html" width="100%" height="100%" src="https://www.youtube.com/embed/UutshUjBwTY" frameborder="0"></iframe><figcaption class="maincolumn-figure">Moneyboy Interview</figcaption></figure>
+
+<h3 id="videos-über-die-gesamte-seitenbreite">Videos über die gesamte Seitenbreite</h3>
+<p>Die Syntax für Videos über die gesamte Seitenbreite lautet:</p>
+
+<p><code>{%fullwidth, "YOUTUBE:youtubeid" "subtitle" %}</code></p>
+
+<p>Ein Beispiel:</p>
+<figure class="fullwidth"><iframe class="ytplayer-fullwidth" type="text/html" width="100%" height="100%" src="https://www.youtube.com/embed/UutshUjBwTY" frameborder="0"></iframe><figcaption>Moneyboy Interview</figcaption></figure>
+
+
+
+<div class="post-credits"> </div> 
+
+<div class="commentsection">
+
+
+<h3>Kommentar verfassen</h3>
+
+<form class="kommentarsektion" method="post" action="https://gautschbrett.herokuapp.com/v2/entry/knautschzone/filmprojektor/main/comments" autocomplete="off">
+  <input type="hidden" name="fields[title]" value="Markdown Handreichung">
+  <input type="hidden" name="options[redirect]" value="https://filmprojektor.net/comment-success.html">
+
+  <label for="name">Name</label>
+  <input type="text" name="fields[name]">
+  
+  <label for="kommentar">Kommentar</label>
+    <textarea class="kommentarbox" name="fields[message]" type="text" ></textarea>
+  
+
+
+  <input class="submitbutton" type="submit" value="Abschicken">
+</form> 
+
+<p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+    
+  </div>
+    <span class="print-footer">Markdown Handreichung - June 5, 2021 - Konrad Bucher</span>
+    <footer class="site-footer">
+  <div class="vertical-stretch"></div>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:knautschzone@mailbox.org"><span class="icon-mail3"></span></a></li>    
+    
+      <li>
+        <a href="//github.com/knautschzone"><span class="icon-github"></span></a>
+      </li>
+    
+      <li>
+        <a href="/feed.xml"><span class="icon-rss2"></span></a>
+      </li>
+      
+    <li> <a href="/dsgvo.html">DSGVO</a></li>
+  </ul>
+ </footer>
+  </div>
+  </body>
+</html>
