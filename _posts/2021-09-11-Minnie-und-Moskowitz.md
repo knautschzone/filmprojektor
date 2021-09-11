@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Screw(b)all Comedy"
-date:   2021-05-12
+date:   2021-09-11
 categories: post
 author: Konrad
 subtitle: "John Cassavetes — Minnie und Moskowitz (1971)"
