@@ -6,7 +6,7 @@ categories: post
 author: Konrad
 subtitle: "John Cassavetes — Minnie und Moskowitz (1971)"
 ---
-
+ 
 *Minnie und Moskowitz* ist Cassavetes sechster Langfilm. {% marginfigure "1" "assets/img/Minnie1-poster.png" "Gefunden moviepilot.de" %} Die Writers Guild of America nominierte sein Drehbuch in der (mittlerweile eingestellten) Kategorie "Best Comedy Written Directly for the Screenplay". Wie das passieren konnte ist mir schleierhaft. Eine Komödie ist der Film höchstens in Ansätzen. Er ist vor allem — wie der spätere *Opening Night* auch — eine Selbstreflexion auf das Kino. Es ist ein ernster Film. 
 
 Weder Morgan noch Seymour, weder Florence noch Minnie interessieren sich für Filme und gehen doch alle ins Kino. Begeistert sind sie von den Filmstars: Morgan: "I don’t care about anything. I don’t know anything about cinema. I don’t like it. Bunch of lonely people, going in, looking up: Forget about it. […] I only like one: Wallace Beery." Seymour: "I like Bogart." Minnie: "I always love Humphrey Bogart" Florence: "And I love Claude Rains".
