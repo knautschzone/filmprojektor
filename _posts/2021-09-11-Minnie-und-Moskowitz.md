@@ -4,7 +4,7 @@ title:  "Screw(b)all Comedy"
 date:   2021-09-11
 categories: post
 author: Konrad
-subtitle: "John Cassavetes — Minnie und Moskowitz (1971)"
+subtitle: "John Cassavetes: Minnie und Moskowitz (1971)"
 ---
  
 *Minnie und Moskowitz* ist Cassavetes sechster Langfilm. {% marginfigure "1" "assets/img/Minnie1-poster.png" "Gefunden moviepilot.de" %} Die Writers Guild of America nominierte sein Drehbuch in der (mittlerweile eingestellten) Kategorie "Best Comedy Written Directly for the Screenplay". Wie das passieren konnte ist mir schleierhaft. Eine Komödie ist der Film höchstens in Ansätzen. Er ist vor allem — wie der spätere *Opening Night* auch — eine Selbstreflexion auf das Kino. Es ist ein ernster Film. 

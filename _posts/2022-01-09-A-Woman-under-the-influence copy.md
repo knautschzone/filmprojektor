@@ -4,7 +4,7 @@ title:  "Dammbruch"
 date:   2022-01-09
 categories: post
 author: Felicitas
-subtitle: "John Cassavetes — A Woman Under the Influence (1974)"
+subtitle: "John Cassavetes: A Woman Under the Influence (1974)"
 ---
  
 Es beginnt mit einem Dammbruch.{% marginfigure "1" "assets/img/wi-1.png" "Nick (Peter Falk) bei der Arbeit. Die Wassermassen gilt es einzudämmen. *(©  Faces International Films / Cine-Source)*" %} Männer stehen in einem Fluss und versuchen, die Überflutung aufzuhalten. Es ist eine raue Welt, eine Männerwelt. Nick, Vorarbeiter und Sprecher der Gruppe, will für sich und seine Kollegen erwirken, dass sich keine weitere Arbeitsschicht anschließt. Er will und muss nach Hause: „I got an unbreakable date. With my wife.“ Es gelingt ihm nicht – Sachzwänge kennen kein Erbarmen: „The palisades caved in. All night we gotta work.“ Zu Hause bei Mabel anrufen will Nick nicht, obwohl oder gerade weil er weiß, dass sie traurig sein wird. Lieber steckt er – überfordert – den Kopf in den Sand.
