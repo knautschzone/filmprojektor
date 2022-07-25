@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hoffnung"
+title:  "Die Hoffnung"
 date:   2021-05-12
 categories: post
 author: C.G.
-subtitle: "Aki Kaurismäki: Der Mann ohne Vergangenheit (2002)"
+subtitle: "Aki Kaurismäki: Der Mann ohne Vergangenheit"
 ---
 
 Das zentrale Thema des Films ist die Hoffnung.
@@ -55,7 +55,7 @@ für die nächste Nacht sind wichtiger als die ferne Zukunft, über die zu speku
 sowieso sinnlos ist, weil der nächste Tag schon der letzte sein kann.
 
 Insofern spielt Peltola einen typischen Kaurismäki-Charakter. Das Entscheidende an
-diesem »Mann ohne Vergangenheit« ist jedoch, daß Kaurismäki hier tabula rasa macht:
+diesem »Mann ohne Vergangenheit« ist jedoch, daß Kaurismäki hier *tabula rasa* macht:
 Der Mann verliert mit einem Schlag auf den Kopf nicht nur sein Gedächtnis und seinen Namen, sondern damit auch seine Identität, die sich aus Name und Geschichte, das
 heißt: Biographie zusammensetzt. Er ist sprichwörtlich ein »Niemand«. Er befindet sich,
 nach seiner Flucht aus dem Krankenhaus, am absoluten Nullpunkt seiner Existenz. Er
@@ -99,13 +99,10 @@ man seine Filme auch als Meditationen über das christliche Gebot der Nächstenl
 begreifen. Jedenfalls sind die drei zentralen paulinischen Gebote – »Glaube, Liebe, Hoffnung« –
 in allen Filmen präsent.
 
-Walter Benjamin schreibt am Ende seines Essays über Goethes »Wahlverwandtschaften«: »Die Hoffnung ist uns nur um der Hoffnungslosen willen gegeben«;{% sidenote 'sn-id-1' 'Walter Benjamin: *Goethes Wahlverwandschaften.* In: Illuminationen. Suhrkamp Verlag. Frankfurt a.M. 1977, S. 135.'%} der
+Walter Benjamin schreibt am Ende seines Essays über Goethes »Wahlverwandtschaften«: »Die Hoffnung ist uns nur um der Hoffnungslosen willen gegeben«;{% sidenote 'sn-id-1' 'Walter Benjamin: *Goethes Wahlverwandschaften,* in: ders., hrsg. v. Rolf Tiedemann und Hermann Schweppenhäuser, Frankfurt/Main 1991, Bd. I/1, 201.'%} der
 »Mann ohne Vergangenheit« könnte einer dieser Hoffnungslosen sein, um deren willen
 uns, laut Benjamin, die Hoffnung gegeben sei, aber er ist es nicht, und das macht die
 Hoffnung dieses Films aus: Daß er nicht verzagt oder verzweifelt angesichts seiner Situation; daß das überhaupt keine Möglichkeit darstellt, sondern daß die einzige Option
 Weitermachen und Nach-vorne-schauen ist, wofür er am Ende auch belohnt wird. In
 der Haltung dieses scheinbar so einfachen Mannes steckt eine tiefe Weisheit, die nicht
 verbalisiert zu werden braucht, weil sie sich in der alltäglichen Lebenspraxis »zeigt«.
-
-
-
