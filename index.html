@@ -1,6 +1,5 @@
 ---
 layout: default
-title: filmprojektor.net
 nav_exclude: true
 ---
 
@@ -14,8 +13,6 @@ nav_exclude: true
 <div class="post-credits"> {{site.posts.first.author}}</div>
 
 <div class="commentsection">
-
-
   {% assign first = false %}
   {% for comment in site.comments %}
   {% include dates-german.html date=comment.date showDay=true %}
