@@ -52,8 +52,13 @@
     </script>
   {% endif %}
 
-  <link rel="preload" type="text/css" href="{{ "/css/tufte.css" }}">
-  <link rel="preload" type="text/css" href="{{ "/css/site.css" }}">
+  <link rel="preload" href="/css/tufte.css" as="style">
+  <link rel="preload" href="/css/site.css" as="style">
+  <link rel="preload" href="/fonts/Barlow/Barlow-Regular.ttf" as="font">
+  <link rel="preload" href="/fonts/Barlow/Barlow-Italic.ttf" as="font">
+  <link rel="preload" href="/fonts/Barlow/Barlow-Bold.ttf" as="font">
+  <link rel="preload" href="/fonts/Barlow/Barlow-BoldItalic.ttf" as="font">
+  <link rel="preload" href="/fonts/Vibur/Vibur-Regular.ttf" as="font">
 
   <link rel="stylesheet" type="text/css" href="{{ "/css/tufte.css" }}">
   <link rel="stylesheet" type="text/css" href="{{ "/css/site.css" }}">
