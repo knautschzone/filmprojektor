@@ -3,11 +3,51 @@
   <channel>
     <title>Filmprojektor</title>
     <description>Ein Blog über Filme</description>
-    <link>https://filmprojektor.net/</link>
-    <atom:link href="https://filmprojektor.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Mar 2023 13:45:46 +0100</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2023 13:45:46 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Mar 2023 15:10:32 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2023 15:10:32 +0200</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Visuelle Sprache</title>
+        <description>&lt;p&gt;Der Videoessay &lt;em&gt;Brainwashed: Sex-Camera-Power&lt;/em&gt; &lt;label for=&quot;mf-id&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Brainwashed1.png&quot; /&gt;&lt;br /&gt;Nina Menkes beobachtet männliche Protagonisten, wie diese wiederum weibliche „Objekte“ beobachten. Im Hintergrund: eine Szene aus Denis Villeneuves &lt;em&gt;Blade Runner 2049&lt;/em&gt;.&lt;/span&gt; basiert auf dem Vortrag &lt;em&gt;Sex &amp;amp; Power: The Visual Language of Cinema&lt;/em&gt; der Regisseurin Nina Menkes. Sie zeigt Kontinuitäten der visuellen Sprache des Films auf, die unseren Blick diktieren. Sie sind uns so selbstverständlich, dass wir auf sie aufmerksam gemacht werden müssen, um sie zu hinterfragen. Männer und Frauen werden konsistent auf verschiedene Weise gefilmt. Weibliche Körper werden auf spezifische Weise kommodifiziert. Ohne es zu wissen, nehmen wir als Filmschauende eine spezifische Perspektive ein, die durch die Bildsprache des Films diktiert wird. Sexistische Aspekte eines Skripts, Dialogs oder Charakters mögen offen Anstoß erregen. Hinzu kommen jedoch die häufig nicht bewusst wahrgenommenen sexistischen Elemente der Bildsprache selbst. Letztere sind häufig sogar in Filmen mit weiblichen Hauptrollen zu finden, die Sexismus in und außerhalb der Filmwelt dezidiert kritisieren wollen. Menkes zeichnet ein Dreieck aus einer spezifischen visuellen Filmsprache, Diskriminierung am Arbeitsplatz sowie sexuellem Missbrauch und sexueller Gewalt. Auf diese Art produziert und perpetuiert die filmische Bildsprache Machtdynamiken. All diese Techniken sind, so Menkes, dezidierte Entscheidungen – mögen sie bewusst oder unbewusst getroffen worden sein.&lt;/p&gt;
+
+&lt;p&gt;Menkes identifiziert fünf Aspekte, die einer Vielzahl an filmischen Darstellungen gemeinsam ist:&lt;/p&gt;
+
+&lt;p&gt;(1.) Männer sind Subjekte, Frauen Objekte: Männer sehen, Frauen werden angesehen. Die Kamera nimmt die Perspektive des männlichen Protagonisten ein. Die visuelle Beziehung wird aus der Perspektive des männlichen Protagonisten erlebt.&lt;/p&gt;
+
+&lt;p&gt;(2.) Framing: Frauen werden – anders als Männer – oft als fragmentierte Körperteile dargestellt, nicht als ganze Personen mit ihrem ganzen Körper. Oft wird das Gesicht ausgespart, was eine Identifizierung verhindert. Selbstverständlich gibt es in Filmen auch klassischen Schönheitsidealen entsprechende Männer. Sie werden jedoch fast immer als ganze Personen dargestellt, ihre Körper sind vollständig zu sehen und sie führen eine aktive Tätigkeit aus.&lt;/p&gt;
+
+&lt;p&gt;(3.) Bewegung der Kamera: Ein Klassiker ist ein Schwenk über den weiblichen Körper („body pan“). Ferner werden Einstellungen in Slow-Motion bei Frauen für sexualisierte Szenen verwendet, in denen passiv der (nackte) Körper gezeigt und so das Beobachten erleichtert wird. Wenn Männer in Slow-Motion gezeigt werden, sind sie in eine aktive Tätigkeit involviert, häufig Action- und militarisierte Szenen.&lt;/p&gt;
+
+&lt;p&gt;(4.) Beleuchtung:&lt;label for=&quot;mf-id&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Brainwashed2.png&quot; /&gt;&lt;br /&gt;Zwei Ausschnitte aus Orson Welles &lt;em&gt;Lady From Shanghai&lt;/em&gt;: Männer werden in 3D beleuchtet, während Frauen in 2D beleuchtet werden. Es handelt sich dabei um standardisiert differenzierte Techniken, die an Filmschulen so gelehrt werden, wie wir von Menkes Interviewpartnerin erfahren.&lt;/span&gt; Männer werden in 3D beleuchtet. Dadurch entstehen Schatten und Tiefe; die Figur wird an einem realen Ort lokalisiert. Frauen hingegen werden in 2D beleuchtet, was zu einer alters- und konturenlosen Weichzeichnung führt. Sie werden in einer zeit- und raumlosen Zone weiblicher Schönheit („male fantasy space“) lokalisiert.&lt;/p&gt;
+
+&lt;p&gt;(5.) Narrative Position der Charaktere: Die sexualisierte Darstellung von Frauen ist häufig auffallend irrelevant für die Geschichte. Anhand von Filmausschnitten aus Blockbustern und Kult-Klassikern demonstriert Menkes diese fünf Aspekte.&lt;/p&gt;
+
+&lt;p&gt;Selbst wenn das Thema eines Films die Objektifizierung von Frauen ist, kann der Film genau diese perpetuieren, wenn er die althergebrachten Techniken anwendet. Beispiel: &lt;em&gt;Bombshell&lt;/em&gt; (2019). Fox-News-CEO Roger Ailes fordert die aufstiegswillige Mitarbeiterin Kayla Pospisil auf, ihre Beine zu zeigen und bedrängt sie so lange, bis diese ihre Unterwäsche entblößt. Obwohl der Film kritisch sein möchte, stellt er die Szene stereotypisch dar und reproduziert die sexualisierte Darstellung von sexueller Gewalt, indem die Kamera den Blick auf Kayla einnimmt und diese sexualisiert wird. &lt;em&gt;Brainwashed&lt;/em&gt; wirft die Frage auf, wie diese Szene anders hätte gedreht werden können: Man hätte nur implizieren können, während die Kamera auf das Gesicht der Protagonistin fokussiert bleibt. Alternativ hätte man auch Kaylas Blick auf ihn zeigen können: sie beobachtet, wie er sie beobachtet. Diese Szenen handeln nicht wirklich von Sex, sondern von Macht. Und jemand, der so gefilmt wird, wie üblicherweise Frauen gefilmt werden, hat keine Macht.&lt;/p&gt;
+
+&lt;div class=&quot;epigraph&quot;&gt;&lt;blockquote&gt;&lt;p&gt;The first feminist gesture is to say: “Ok. They’re looking at me. But I’m looking at them.” The act of deciding to look, of deciding that the world is not defined by how people see me, but by how I see them.&lt;/p&gt;&lt;footer&gt;Agnès Varda, &lt;cite&gt;irgendwo (oft zitiert)&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;&lt;/div&gt;
+&lt;p&gt;&lt;label for=&quot;mf-id&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Brainwashed3.png&quot; /&gt;&lt;br /&gt;Die „line of identification“ des klassischen Kinos.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Was ist eine legitime Art der Kritik, die zur Verdeutlichung und Bloßstellung das darstellt, was sie kritisiert und den Zuschauenden so einen Spiegel vorhält? Was eine bloße Reproduktion, die die bereits in den Köpfen eingeschliffenen Bilder perpetuiert? Wo ist die Trennlinie? Sie könnte dort sein, wo eine Szene beim Betrachten des Films als Bruch wahrgenommen wird; wo die Zuschauenden nicht in die bloße Betrachter-Perspektive gedrängt werden. Oder wird die Darstellung eines weiblichen Körpers sexualisiert, sodass sie die ZuschauerInnen – vermittelt durch den Blick des männlichen Subjekts – in ihren Bann zieht und eine kritische und fruchtbare Distanz gerade verhindert?&lt;/p&gt;
+
+&lt;p&gt;Interessant wäre es vielleicht, die von Menkes ausgesuchten Filmszenen im Zusammenhang des jeweiligen Filmes zu sehen. Nur um sicher zu gehen, dass Menkes sie nicht aus dem Kontext reißt und verfälscht. Andererseits ist genau dies einer der zentralen Punkte, die Menkes machen möchte: Ob der Film kritisch sein möchte oder nicht, ist zweitrangig, wenn dieselben Bilder wieder und wieder reproduziert werden. Sie schleifen sich in den Köpfen ein. In der Psychologie gibt es den „Mere-Exposure-Effekt“, der besagt, „dass allein die wiederholte Wahrnehmung einer anfangs neutral beurteilten Sache ihre positivere Bewertung zur Folge hat“.&lt;label for=&quot;1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;https://de.wikipedia.org/wiki/Mere-Exposure-Effekt &lt;/span&gt; Ein Beispiel hierfür sind Altersunterschiede zwischen männlichen und weiblichen SchauspielerInnen: wir sind als Zuschauende so sehr daran gewöhnt, dass weibliche Filmrollen an Personen vergeben werden, die 10 Jahre jünger sind als ihre männlichen romantischen Gegenparts, dass wir irritiert sind, wenn ein Filmpaar aus gleichaltrigen SchauspielerInnen besteht.&lt;label for=&quot;2&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;2&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Vgl. https://www.vulture.com/2015/09/emma-thompson-on-feminism-trump-and-teapots.html &lt;/span&gt; Man reproduziert die Bilder und akzeptiert sie unhinterfragt als Normalität, weil man fast nichts anderes sieht. Und was man nicht sieht, ist unsichtbar. Erforderlich ist es deshalb, den eigenen Blick umzutrainieren. Das aber kann nicht gelingen, wenn dieselben Bilder ständig reproduziert werden – egal in welchem Kontext.&lt;/p&gt;
+
+&lt;p&gt;Ein anderer in &lt;em&gt;Brainwashed&lt;/em&gt; diskutierter Aspekt ist die Darstellung von (nicht-)konsensuellem Sex im Film. Geradezu ein Klassiker unter den Filmszenen ist die Darstellung einer Frau, die sich ziert und sich verweigert, sich gar wehrt und deutlich ihren Widerwillen ausdrückt. Hinzu kommt ein Mann, der forsch ist und gewitzt, der sich der Frau aufdrängt, sie festhält, sie küsst und ihre Weigerungen verweigert. Schließlich gibt sie nach, gibt sich ihm hin und genießt den Sex. So entsteht konsensueller Sex. Dies wird untermalt durch die Filmmusik, die sich entsprechend verändert. Wenn die Frau doch aber schließlich einwilligt, was spricht dagegen? Dagegen spricht, dass es sich nicht um eine Abbildung einer typischen Lebenssituation handelt; in aller Regel geht eine Übergriffigkeit oder gar eine versuchte Vergewaltigung nicht zu konsensuellem Sex über. Aber ein Film muss doch nicht die Realität abbilden; wenn es hier nun einmal so ist, ist das doch die künstlerische Freiheit des Regisseurs, oder? Das Problem ist, dass diese Art von Szene so allgegenwärtig ist, dass sich sogar bezweifeln lässt, wie bewusst sich der Regisseur dafür entschieden hat. Sie ist so allgegenwärtig, dass sie sich in den Köpfen der Zuschauenden und Filmemachenden festsetzt und als der Normalfall angesehen wird. Eine bloße Reproduktion dieser Szene ist weder Ausdruck künstlerischer Freiheit noch kritische Auseinandersetzung. Diskussionen wie die in &lt;em&gt;Brainwashed&lt;/em&gt; dienen gerade dazu, künstlerische Freiheit zu schützen, indem die verinnerlichten Vorgaben sexismus-konformer Bildsprache reflektiert werden und so Raum für wahre künstlerische Freiheit auf allen Ebenen geschaffen werden kann.&lt;/p&gt;
+
+&lt;p&gt;Die Grandiosität &lt;label for=&quot;mf-id&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Brainwashed4.png&quot; /&gt;&lt;br /&gt;Auch kritisch gemeinte Reproduktionen reproduzieren und haben gesellschaftliche Rückwirkungen, solange sie keine kritische Distanz schaffen.&lt;/span&gt; von &lt;em&gt;Brainwashed&lt;/em&gt; liegt nicht darin, dass inhaltlich neue Aspekte aufgezeigt werden. Im Gegenteil sind die meisten Punkte, die Menkes aufführt, seit Mulveys Diskussion um den „male gaze“ und die „to-be-looked-at-ness“ bekannt und es wirkt fast anachronistisch, noch einen Film über diese Thematik zu machen. Nichtsdestotrotz: In der Filmwelt scheinen diese Erkenntnisse allenfalls langsam anzukommen, was nicht zuletzt die von Menkes angeführten Beispiele aus der jüngeren Vergangenheit zeigen. Die wirkliche Schlagkraft des Films liegt jedoch darin, visuell – das heißt: in der dem Medium Film eigenen Sprache – zu verdeutlichen, was uns rational längst bewusst ist. Es macht einen Unterschied, die Zusammenschnitte vieler gleichförmiger und sexistischer Filmausschnitte aneinandergereiht zu sehen; erst dadurch sackt die Erkenntnis ein, wie omnipräsent der „male gaze“ auch heute noch ist. Es geht – das macht auch Menkes deutlich – nicht darum, dass die gezeigten Filme nicht mehr geschaut werden oder als Meisterwerke gefeiert werden dürfen. Aber sie können bei aller legitimen oder gar gebotenen Hochachtung auch nicht in jeder Hinsicht glorifiziert, sondern müssen mit einem distanziert-kritischen Blick gesehen werden. Einem Blick, der anerkennt und feiert, dass sich bestimmte Dinge geändert haben und weiterer Fortschritt möglich ist. &lt;em&gt;Brainwashed&lt;/em&gt; gibt das Werkzeug an die Hand, um diese spezifischen Aspekte gezielter erkennen und mit einem distanzierteren Blick aufnehmen zu können.&lt;/p&gt;
+
+&lt;p&gt;Auf der Homepage zum Film&lt;label for=&quot;3&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;3&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;https://www.brainwashedmovie.com/ &lt;/span&gt; findet sich eine Liste mit essentieller Literatur („Essential Reading“), auf die sich Menkes bezieht und die sie für den Film verwendet hat. Darunter neben dem Klassiker &lt;em&gt;Visual Pleasure and Narrative Cinema&lt;/em&gt; von Laura Mulvey auch beispielsweise Audre Lordes &lt;em&gt;Uses of the Erotic: The Erotic as Power&lt;/em&gt; und &lt;em&gt;The Oppositional Gaze&lt;/em&gt; von bell hooks.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Mar 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/articles/23/Brainwashed</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/23/Brainwashed</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Utopie und Alltag</title>
@@ -26,8 +66,8 @@
 &lt;p&gt;»Stranger than Paradise«&lt;label for=&quot;5&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;5&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Rueckflug_nach_Budapest.png&quot; /&gt;&lt;br /&gt;Evas und Willies Rückkehr nach Budapest. &lt;em&gt;(© 2015 Arthouse Filmverleih)&lt;/em&gt;&lt;/span&gt; beginnt auf einem Flughafen mit der Ankunft Evas in den USA und er endet auf einem mit ihrer und Willies Rückkehr nach Budapest als ihrer Heimat. Der Film gleicht damit einer einzigen, riesigen Flughafenhalle, den USA, in der, wie in jeder realen, alles ähnlich ist und eines wie das andere aussieht. Dieser Zusammenhang wird auch explizit in der Feststellung Willies thematisch, nach der Cleveland vollkommen New York gleiche. Mit der Rückkehr der beiden nach Budapest, Ungarn als dem »Paradies« insinuiert Jarmusch daneben die Rückkehr aus dem »Land der Sünde« in ein moralisch intaktes und wertebasiertes soziales Gefüge, innerhalb dessen es noch ein richtiges Leben des Einzelnen gibt. Wenn man »Stranger than Paradise« als Parabel auf die Geschichte der Menschheit lesen will, dann ist die Welt nach dem Sündenfall nichts anderes als ein Transitraum zwischen dem Paradies und, nach ihrer Läuterung, ihrer Wiederherstellung in den ursprünglichen Zustand, die &lt;em&gt;restitutio omnium&lt;/em&gt;, die Herkunft als Ziel.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Oct 2022 00:00:00 +0200</pubDate>
-        <link>https://filmprojektor.net/articles/22/stranger-than-paradise</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/22/stranger-than-paradise</guid>
+        <link>http://localhost:4000/articles/22/stranger-than-paradise</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/stranger-than-paradise</guid>
         
         
         <category>post</category>
@@ -57,8 +97,8 @@
 &lt;p&gt;Letztlich läßt sich »360« als eine Parabel auf das Leben lesen. In der Schlußeinstellung zeigt sich, daß es dem Gesetz des Kreislaufs, der »ewigen Wiederkehr« gehorcht: Man sieht eine junge, attraktive Frau an einer Tür klingeln, hört eine Stimme aus der Gegensprechanlage, die man schnell als diejenige des Zuhälters identifiziert, vor dessen Kamera sie sich schließlich auszieht. Der ganze Kreislauf beginnt von neuem. Die Dinge wiederholen sich und gestalten sich jeden Augenblick aufs neue aus, je nachdem welche Entscheidungen wir treffen. – Das Leben als endlose Folge von Wiederholungen und Permutationen, die sich mit denen eines Möbiusbandes vergleichen lassen. Das Leben besteht, das legt der Film nahe, auch in diesen Überlappungen, diesen ›Zufälligkeiten‹, diesen Verstrickungen, die oft nicht so ›zufällig‹ sind, wie sie scheinen, sondern eigenen Gesetzen gehorchen, die uns manchmal den Eindruck aufdrängen, »als müßte es so sein«, »als hätte es nicht anders passieren können«. Fernando Meirelles kreiert in »360« Versuchsanordnungen in chemisch-naturwissenschaftlichem Sinne, deren Elemente in den ihn immanenten Bewegungen eine spezifische Eigendynamik entfalten und wechselweise Verbindungen, &lt;em&gt;Wahlverwandtschaften&lt;/em&gt; eingehen. Insgesamt ist »360 – Jede Begegnung hat ihre Folgen« eine gelungene Adaption von Arthur Schnitzlers Theaterstück »Reigen«, die sich mit filmischen Mitteln den großen Fragen des Lebens, ja der Philosophie nähert, sich dabei aber nicht anmaßt, eine Antwort zu haben.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Aug 2022 00:00:00 +0200</pubDate>
-        <link>https://filmprojektor.net/articles/22/360Grad</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/22/360Grad</guid>
+        <link>http://localhost:4000/articles/22/360Grad</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/360Grad</guid>
         
         
         <category>post</category>
@@ -128,8 +168,8 @@
 &lt;p&gt;Dass sie dennoch einen Mann zu vermissen vorgibt, ist Ersatzhandlung als Erinnerung an eine Zeit, in der die von V verkörperte Idee des Umsturzes und des Unabgegoltenen als Antidote zur faschistischen Gegenwart ausreichte. &lt;em&gt;Nach&lt;/em&gt; dem Film und dessen Zukunft, im Jahre 2022, substituiert sie nur den Mangel an lebendigen und liebenswürdigen Personen, eher noch an Umständen, die dem abstrakt Erträumten tatsächlich Leben einhauchen könnten.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Feb 2022 00:00:00 +0100</pubDate>
-        <link>https://filmprojektor.net/articles/22/V-for-Vendetta</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/22/V-for-Vendetta</guid>
+        <link>http://localhost:4000/articles/22/V-for-Vendetta</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/V-for-Vendetta</guid>
         
         
         <category>post</category>
@@ -167,8 +207,8 @@ Konventionen und Bedürfnisse.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 09 Jan 2022 00:00:00 +0100</pubDate>
-        <link>https://filmprojektor.net/articles/22/A-Woman-under-the-influence-copy</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/22/A-Woman-under-the-influence-copy</guid>
+        <link>http://localhost:4000/articles/22/A-Woman-under-the-influence-copy</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/A-Woman-under-the-influence-copy</guid>
         
         
         <category>post</category>
@@ -220,8 +260,8 @@ Konventionen und Bedürfnisse.&lt;/p&gt;
 &lt;p&gt;Minnie und Moskowitz gibt es in mittelmäßiger Qualität auf Youtube zu sehen.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Sep 2021 00:00:00 +0200</pubDate>
-        <link>https://filmprojektor.net/articles/21/Minnie-und-Moskowitz</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/21/Minnie-und-Moskowitz</guid>
+        <link>http://localhost:4000/articles/21/Minnie-und-Moskowitz</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Minnie-und-Moskowitz</guid>
         
         
         <category>post</category>
@@ -265,8 +305,8 @@ Dies ist genau das &lt;em&gt;Nichts&lt;/em&gt; Kevins, das er in seinem Inneren 
 kurzgeschorenen Haaren verschüchtert und gezeichnet in die Kamera gucken ‒ das Gegenteil von seiner einstigen Selbstsicherheit. Eva wirkt kalt und abgeklärt. Sie stellt zu Beginn des Gesprächs fest, das er nicht glücklich aussehe, woraufhin er entgegnet: »Have I ever?« Sie macht ihn darauf aufmerksam, daß heute der zweijährige Jahrestag seines Schulmassakers ist und er kurz vor seinem 18. Geburtstag stehe. Er weiß darum. Nun stellt sie zwei Jahre nach der ungeheuerlichen Tat die Frage: »I wan’t you to tell me, why?« Daraufhin entsteht eine lange Pause, sie schaut ihn aufmerksam, fragend an. In der nächsten Einstellung sieht man ihn, er guckt unsicher, aus dem Seitenprofil heraus, zurück und sagt, nachdem er länger nachgedacht und sie ihn weiter angeschaut hat, nach etwa 15 Sekunden Schweigen: »I used to think I knew. I’m not so sure.« Sie nickt. Er fürchtet vielleicht ihr Urteil. Plötzlich ist die Besuchszeit um und Kevin steht auf und geht ein/zwei Schritte auf sie zu. Sie nimmt ihn in den Arm. Und diesmal ist es echt. Es ist der Moment, in dem er all das bekommt, was er sein Leben lang entbehren mußte. Insofern läßt sich Lynne Ramsays Film als Kritik an Familienverhältnissen lesen, in denen Kinder ohne Liebe aufwachsen müssen und dadurch zu Monstern werden. Der Film ist nicht zuletzt eine Auseinandersetzung mit der relativ neuen Realität der Schulmassaker. Und wenn es erneut zu solch einem Schulmassaker kommt, stellt sich von Neuem die Frage nach dem Sinn. Die Antwort auf die Frage dürfte sein, daß der Sinn das radikale Nichts ist, die Verneinung allen Sinns. In solchen Situationen wird die Gesellschaft unmittelbar mit sich selber konfrontiert und der psychischen Gewalt, die sie auf den Einzelnen ausübt und damit solche Taten ermöglicht. Lynne Ramsay gelingt es, eine überzeugende Charakterstudie eines solchen Attentäters zu zeichnen.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jun 2021 00:00:00 +0200</pubDate>
-        <link>https://filmprojektor.net/articles/21/We-Need-to-Talk-About-Kevin</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/21/We-Need-to-Talk-About-Kevin</guid>
+        <link>http://localhost:4000/articles/21/We-Need-to-Talk-About-Kevin</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/We-Need-to-Talk-About-Kevin</guid>
         
         
         <category>post</category>
@@ -375,8 +415,8 @@ der Haltung dieses scheinbar so einfachen Mannes steckt eine tiefe Weisheit, die
 verbalisiert zu werden braucht, weil sie sich in der alltäglichen Lebenspraxis »zeigt«.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-        <link>https://filmprojektor.net/articles/21/Mann-ohne-Vergangenheit</link>
-        <guid isPermaLink="true">https://filmprojektor.net/articles/21/Mann-ohne-Vergangenheit</guid>
+        <link>http://localhost:4000/articles/21/Mann-ohne-Vergangenheit</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Mann-ohne-Vergangenheit</guid>
         
         
         <category>post</category>
