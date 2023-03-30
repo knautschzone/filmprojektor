@@ -7,6 +7,21 @@ author: Simon
 subtitle: "Ridley Scott: Blade Runner"
 ---
 
+Eine erstaunliche Eigenart der Konzeption von Androiden {% sidenote "1" "In der Romanvorlage des Films war noch die Rede von Androiden. Ridley Scott wollte die Geschöpfe *Replikanten* nennen, wohl weil *Android* nach Star Wars eine sehr blecherne Bedeutung annahm. George Lucas hatte das Wort *Robots* aus der Textvorlage von Star Wars wiederum in die Aphärese *Droids* geändert, so verwendet und schließlich sogar als Handelsmarke registriert." %} in der Welt von Blade Runner ist, dass diese sich in ihr unwesentlich und nur schwierig vom Menschen unterscheiden lassen. Ihrem Körper nach sowieso nicht, und in ihrer Disposition gleichen die artifiziellen Wesen verspielten Kindern oder zornigen Teenagern. Blade Runner werden Jäger genannt, deren Aufgabe es ist, die Replikanten unter den Menschen *identifizieren* und "still zu legen" (retire). 
+
+Im Laufe des Films nähern sich jedoch Jäger und Gejagte an. Der Film geht um den Blade Runner Robert Deckard, der am Ende am Androidhaften des Replikanten die eingeschriebene Aporie seines eigenen Menschseins einsieht.
+
+Replikant, so kann man im Laufe des Films feststellen, bezeichnet weniger die Abgrenzung zwischen ihrer Natur nach unterschiedenen Sachen (so wie Apfel und Birne), sondern erfüllt eine vielfache gesellschaftliche Funktion in der Welt von Blade Runner: letztendlich ist der Replikant der Fremde und zwar der Fremde in dem Sinne, dass dessen Verlangen nach Selbstbestimmtheit nur Feindschaft und dessen Leid nur Stärke provoziert und der vernichtet werden muss, sobald er darin zu weit geht. Die Pointe am Ende besteht aber nicht darin, den Fremden zu integrieren ("der Replikant ist ja auch menschlich"), sondern darin, dass grade durch die Fremdheit des Replikanten hindurch sichtbar wird, was es bedeutet, *lebendig* zu sein. Der Replikant ist ein Wesen, dem sein Tod angesichts des eigentlich Schützenswerten, dem Leben, als größte Ungerechtigkeit gilt. Das Leben ist schön, aber ephemer. Der Replikant sieht den ganzen Widerspruch dieses Satzes
+
+ ein konkret utopischer Gehalt gefunden, wie ihn Donna Haraway in der Gestalt des Cyborgs entdeckt:
+
+> In a sense, the cyborg has no "origin story" in the Western sense -- a "final" irony since the cyborg is also the awful apokalptic *telos* of the "West's" escalating deominations if abstract individuation, an ultimate self untied at last from all dependency, a man in space.
+
+Allerdings sind Donna Haraways Cyborgs unsterblich. Donna Haraway beschriebt aber sonst sehr genau - welche Entwicklungen der Cyborg bedingt - Mensch-Tier-Unterscheidung, Menschentier-Maschine-Unterschiedung, Physisch-Geisig-Unterscheidung
+
+Denn nicht nur das Schöne ist auf widersprüchliche Art ephemer, sondern umgekehrt -- hier muss ich mich wundern, wirklich sehr wundern -- ist das Schöne nur dann schön, wenn es ephemer ist und jeder Moment seines Fortbestehens eine die ganze Welt wert. Der Himmel ist langweilig; das Grinsen auf dem Gesicht von Roy ist selbst in seinen letzten Momenten schön. 
+
+
 
 ## It (which thinks)
 
@@ -36,21 +51,6 @@ Doch damit nicht genug des Selbstbewusstseins - Wiener versuchte noch vor Veröf
 
 Wiener bekam aber nicht so Recht die richtigen Leute an die andere Seite seines Telefonapparates; zwar hörten ihm »ein oder zwei« bedeutende Gewerkschaftler freundlich und geduldig zu, jedoch gelang es ihm nicht, mit seiner Warnung bis an wichtige Entscheidungsträger vorzudringen.
 
-## Blut
-
-
-
-
-
-<!-- 
-
-Einer kleinen Gruppe von Wissenschaftlern - solche, deren Feld bislang theoretisch bis seltsam anmutete - bereitete der 2. Weltkrieg einen großen Auftritt. Der Krieg gab ihrer Wissenschaft, die irgendwo zwischen Teilgebieten der Mathematik, der Logik, der Physik und der Philosophie ihren Ursprung und noch lange keinen Namen hatte, die Gelegenheit zur Verwirklichung theoretischer Erkentnisse, und mit ihren maschinellen Wirklichkeiten kamen nur mehr neue Erkentnisse zur Welt: Jedenfalls wurden Ende der 30er Jahre die ersten - in fast allen Konfliktparteien zeitgleich, kein Wunder, denn sie waren Kopfgeburten, vorbereitet durch internationale, jahrzehntelange theoretische Arbeit auf den Gebieten der formalen Logik, Algebra und der Erforschung statistischer Mechanik und thermodynamischer Prinzipien.
-
-Computer schon deswegen keine Metapher, weil Computer = the person, who computes
-
-1. Mechanisch, Vakuumröhren und Magnettechnik, Transistortechnik
-
 
 https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/037/72/PDF/N2103772.pdf?OpenElement  -- S. 17 UN Bericht
 https://thebulletin.org/2021/05/was-a-flying-killer-robot-used-in-libya-quite-possibly/ -- Hintergründe
- -->

@@ -3,11 +3,79 @@
   <channel>
     <title>Filmprojektor</title>
     <description>Ein Blog über Filme</description>
-    <link>http://filmprojektor.net/</link>
-    <atom:link href="http://filmprojektor.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Jan 2023 22:18:23 +0100</pubDate>
-    <lastBuildDate>Thu, 19 Jan 2023 22:18:23 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 Mar 2023 11:44:32 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 11:44:32 +0200</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Mensch und Maschine in Blade Runner</title>
+        <description>&lt;p&gt;Eine erstaunliche Eigenart der Konzeption von Androiden &lt;label for=&quot;1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;In der Romanvorlage des Films war noch die Rede von Androiden. Ridley Scott wollte die Geschöpfe &lt;em&gt;Replikanten&lt;/em&gt; nennen, wohl weil &lt;em&gt;Android&lt;/em&gt; nach Star Wars eine sehr blecherne Bedeutung annahm. George Lucas hatte das Wort &lt;em&gt;Robots&lt;/em&gt; aus der Textvorlage von Star Wars wiederum in die Aphärese &lt;em&gt;Droids&lt;/em&gt; geändert, so verwendet und schließlich sogar als Handelsmarke registriert. &lt;/span&gt; in der Welt von Blade Runner ist, dass diese sich in ihr unwesentlich und nur schwierig vom Menschen unterscheiden lassen. Ihrem Körper nach sowieso nicht, und in ihrer Disposition gleichen die artifiziellen Wesen verspielten Kindern oder zornigen Teenagern. Blade Runner werden Jäger genannt, deren Aufgabe es ist, die Replikanten unter den Menschen &lt;em&gt;identifizieren&lt;/em&gt; und “still zu legen” (retire).&lt;/p&gt;
+
+&lt;p&gt;Im Laufe des Films nähern sich jedoch Jäger und Gejagte an. Der Film geht um den Blade Runner Robert Deckard, der am Ende am Androidhaften des Replikanten die eingeschriebene Aporie seines eigenen Menschseins einsieht.&lt;/p&gt;
+
+&lt;p&gt;Replikant, so kann man im Laufe des Films feststellen, bezeichnet weniger die Abgrenzung zwischen ihrer Natur nach unterschiedenen Sachen (so wie Apfel und Birne), sondern erfüllt eine vielfache gesellschaftliche Funktion in der Welt von Blade Runner: letztendlich ist der Replikant der Fremde und zwar der Fremde in dem Sinne, dass dessen Verlangen nach Selbstbestimmtheit nur Feindschaft und dessen Leid nur Stärke provoziert und der vernichtet werden muss, sobald er darin zu weit geht. Die Pointe am Ende besteht aber nicht darin, den Fremden zu integrieren (“der Replikant ist ja auch menschlich”), sondern darin, dass grade durch die Fremdheit des Replikanten hindurch sichtbar wird, was es bedeutet, &lt;em&gt;lebendig&lt;/em&gt; zu sein. Der Replikant ist ein Wesen, dem sein Tod angesichts des eigentlich Schützenswerten, dem Leben, als größte Ungerechtigkeit gilt. Das Leben ist schön, aber ephemer. Der Replikant sieht den ganzen Widerspruch dieses Satzes&lt;/p&gt;
+
+&lt;p&gt;ein konkret utopischer Gehalt gefunden, wie ihn Donna Haraway in der Gestalt des Cyborgs entdeckt:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In a sense, the cyborg has no “origin story” in the Western sense – a “final” irony since the cyborg is also the awful apokalptic &lt;em&gt;telos&lt;/em&gt; of the “West’s” escalating deominations if abstract individuation, an ultimate self untied at last from all dependency, a man in space.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Allerdings sind Donna Haraways Cyborgs unsterblich. Donna Haraway beschriebt aber sonst sehr genau - welche Entwicklungen der Cyborg bedingt - Mensch-Tier-Unterscheidung, Menschentier-Maschine-Unterschiedung, Physisch-Geisig-Unterscheidung&lt;/p&gt;
+
+&lt;p&gt;Denn nicht nur das Schöne ist auf widersprüchliche Art ephemer, sondern umgekehrt – hier muss ich mich wundern, wirklich sehr wundern – ist das Schöne nur dann schön, wenn es ephemer ist und jeder Moment seines Fortbestehens eine die ganze Welt wert. Der Himmel ist langweilig; das Grinsen auf dem Gesicht von Roy ist selbst in seinen letzten Momenten schön.&lt;/p&gt;
+
+&lt;h2 id=&quot;it-which-thinks&quot;&gt;It (which thinks)&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The synapse is nothing but a mechanism for determining whether a certain combination of outputs from other selected elements will or will not act as an adequate stimulus for the discharge of the next element, and must have its precise analogue in the computing machine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dennoch war es nicht so sehr der Fehler einer ungültigen Übertragung einer Metapher (Maschine) auf einen Gegenstand anderer Natur (das Denken), wie Adam Curtis suggeriert. Sondern die Vorstellung, das menschliche Gehirn gliche einem sehr weit entwickelten Computersystem, ist Folge der formalen Allgemeinheit logischer, informationstheoretischer Vorarbeiten des frühen 20. Jahrhunderts; in den  Arbeiten Alan Turings der 30er Jahre über die Natur mathematischer Erkentnisse bezeichnet ‘Computer’ zuerst &lt;em&gt;a person, who computes&lt;/em&gt; und es ist beinahe trivial, diese Tätigkeit könne eine Maschine ausführen. Analytisches Denken ließ sich selbstverständlich an den Fähigkeiten einer Maschine messen.&lt;/p&gt;
+
+&lt;p&gt;Das Denken selbst präsentiert sich hier vor allem in seiner repäsentativen Charakteristik - es wird durch Symbole, ihre Manipulation und (logische) Rekombination charakterisiert. Norbert Wiener beschwört Leibnitz - Entdecker symbolischer Repräsentation von Ideen - als Schutzpatron für seine neue Wissenschaft, die &lt;em&gt;Kybernetik&lt;/em&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is therefore not in the least surprising that the same intellectual impulse which has led to the development of mathematical logic has at the same time led to the ideal or actual mechanization of the process of thought.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In diesem Sinne kann man - ganz ohne Inanspruchnahme zeitgenössischer KI - davon ausgehen, dass das, was Computer leisten, unter den Begriff des Denkens fällt, falls auch unter einen sehr eingeschränkten. Kurz gesagt: die Erfinder moderner Computersysteme waren der Überzeugung, ein elektronischer oder sogar elektromechanischer Computer könne zwar nicht jedes, aber analytisches Denken ausüben - doch Denken allemal.&lt;/p&gt;
+
+&lt;p&gt;Die literarische Vorlage von Blade Runner, Phillip K. Dicks Roman &lt;em&gt;Do Androids Dream of Electric Sheep?&lt;/em&gt; nimmt genau diesen Schluss zu ihrer Prämisse.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Emapthy, evidently, existed only within the human community, whereas intelligence to some degree could be found throughout every phylum and order including arachnida.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Menschheit, so sinniert der Hauptcharakter der Novelle, der Kopfgeldjäger Deckardt, definiere sich nicht durch die ausgezeichnete Fähigkeit zum Denken, sondern dadurch, emphatisch zu sein. Das macht die Besonderheit der Konzeption künstlichen Lebens in Blade Runner aus: Mensch und Maschine sind schwierig, auseinanderzuhalten; zur Unterscheidung beider nutzen Kopfgeldjäger den Voigt-Kampff-Test, eine fiktive Maschine, die über &lt;em&gt;unwillkürliche&lt;/em&gt; Pupillenreflexe zu Empathie fähige Lebewesen identifiziert. Weiter ist gar nicht so unbedingt klar, ob Androiden, oder &lt;em&gt;Replikanten&lt;/em&gt;, wie sie im Film genannt werden, deswegen keine Empathie empfinden können, weil das aus technischen Gründen unmöglich sei, oder deswegen, weil es ihrem &lt;em&gt;Zweck&lt;/em&gt; abträglich wäre, sie so zu erschaffen. Die Androiden - im Universum von Blade Runner - wurden als perfekte Sklaven erfunden; sie sollen ausgewanderten, reichen und gesunden Menschen treue Diener sein, als Arbeits- oder Kampfmaschinen einsetzbar, um fremde Planeten und Sonnensysteme zu kolonisieren.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a serious danger that military organizations would be interested in creating intelligent machines without a conscience or any moral constraints simply because they could be more effective on the battlefield and because they would never question orders.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Norbert Wiener und seinen Kollegen war Intelligenz nicht weniger profan - ganz im Gegenteil - die Überzeugung, mit welcher er davon ausging, dass seine Wissenschaft schließlich die denkende Maschine erfinden würde, ist erstaunlich. Lange bevor überhaupt ein einziger Prototyp einer solchen Maschine gebaut wurde, gab er im Vorwort seines Buches als einer ihrer möglichen Anwendungsgebiete  an:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It gives the human man a new and most effective collection of mechanical slaves to perform its labour.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Doch damit nicht genug des Selbstbewusstseins - Wiener versuchte noch vor Veröffentlichung seines Buches 1948 amerikanische Gewerkschaftsführer darüber zu informieren, dass seine Wissenschaft drauf und dran sei, den Arbeiter durch mechanische, weit überlegene Maschinen zu ersetzen. Im Kapitalismus würden die intelligenten Maschinen den Preis der Arbeit so weit drücken, dass der Arbeiter wohl kaum mit ihnen konkurrieren könne.&lt;/p&gt;
+
+&lt;p&gt;Wiener bekam aber nicht so Recht die richtigen Leute an die andere Seite seines Telefonapparates; zwar hörten ihm »ein oder zwei« bedeutende Gewerkschaftler freundlich und geduldig zu, jedoch gelang es ihm nicht, mit seiner Warnung bis an wichtige Entscheidungsträger vorzudringen.&lt;/p&gt;
+
+&lt;p&gt;https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/037/72/PDF/N2103772.pdf?OpenElement  – S. 17 UN Bericht
+https://thebulletin.org/2021/05/was-a-flying-killer-robot-used-in-libya-quite-possibly/ – Hintergründe&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jan 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/articles/23/Blade-Runner</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/23/Blade-Runner</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Utopie und Alltag</title>
@@ -26,8 +94,8 @@
 &lt;p&gt;»Stranger than Paradise«&lt;label for=&quot;5&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;5&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Rueckflug_nach_Budapest.png&quot; /&gt;&lt;br /&gt;Evas und Willies Rückkehr nach Budapest. &lt;em&gt;(© 2015 Arthouse Filmverleih)&lt;/em&gt;&lt;/span&gt; beginnt auf einem Flughafen mit der Ankunft Evas in den USA und er endet auf einem mit ihrer und Willies Rückkehr nach Budapest als ihrer Heimat. Der Film gleicht damit einer einzigen, riesigen Flughafenhalle, den USA, in der, wie in jeder realen, alles ähnlich ist und eines wie das andere aussieht. Dieser Zusammenhang wird auch explizit in der Feststellung Willies thematisch, nach der Cleveland vollkommen New York gleiche. Mit der Rückkehr der beiden nach Budapest, Ungarn als dem »Paradies« insinuiert Jarmusch daneben die Rückkehr aus dem »Land der Sünde« in ein moralisch intaktes und wertebasiertes soziales Gefüge, innerhalb dessen es noch ein richtiges Leben des Einzelnen gibt. Wenn man »Stranger than Paradise« als Parabel auf die Geschichte der Menschheit lesen will, dann ist die Welt nach dem Sündenfall nichts anderes als ein Transitraum zwischen dem Paradies und, nach ihrer Läuterung, ihrer Wiederherstellung in den ursprünglichen Zustand, die &lt;em&gt;restitutio omnium&lt;/em&gt;, die Herkunft als Ziel.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Oct 2022 00:00:00 +0200</pubDate>
-        <link>http://filmprojektor.net/articles/22/stranger-than-paradise</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/22/stranger-than-paradise</guid>
+        <link>http://localhost:4000/articles/22/stranger-than-paradise</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/stranger-than-paradise</guid>
         
         
         <category>post</category>
@@ -57,8 +125,8 @@
 &lt;p&gt;Letztlich läßt sich »360« als eine Parabel auf das Leben lesen. In der Schlußeinstellung zeigt sich, daß es dem Gesetz des Kreislaufs, der »ewigen Wiederkehr« gehorcht: Man sieht eine junge, attraktive Frau an einer Tür klingeln, hört eine Stimme aus der Gegensprechanlage, die man schnell als diejenige des Zuhälters identifiziert, vor dessen Kamera sie sich schließlich auszieht. Der ganze Kreislauf beginnt von neuem. Die Dinge wiederholen sich und gestalten sich jeden Augenblick aufs neue aus, je nachdem welche Entscheidungen wir treffen. – Das Leben als endlose Folge von Wiederholungen und Permutationen, die sich mit denen eines Möbiusbandes vergleichen lassen. Das Leben besteht, das legt der Film nahe, auch in diesen Überlappungen, diesen ›Zufälligkeiten‹, diesen Verstrickungen, die oft nicht so ›zufällig‹ sind, wie sie scheinen, sondern eigenen Gesetzen gehorchen, die uns manchmal den Eindruck aufdrängen, »als müßte es so sein«, »als hätte es nicht anders passieren können«. Fernando Meirelles kreiert in »360« Versuchsanordnungen in chemisch-naturwissenschaftlichem Sinne, deren Elemente in den ihn immanenten Bewegungen eine spezifische Eigendynamik entfalten und wechselweise Verbindungen, &lt;em&gt;Wahlverwandtschaften&lt;/em&gt; eingehen. Insgesamt ist »360 – Jede Begegnung hat ihre Folgen« eine gelungene Adaption von Arthur Schnitzlers Theaterstück »Reigen«, die sich mit filmischen Mitteln den großen Fragen des Lebens, ja der Philosophie nähert, sich dabei aber nicht anmaßt, eine Antwort zu haben.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Aug 2022 00:00:00 +0200</pubDate>
-        <link>http://filmprojektor.net/articles/22/360Grad</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/22/360Grad</guid>
+        <link>http://localhost:4000/articles/22/360Grad</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/360Grad</guid>
         
         
         <category>post</category>
@@ -128,8 +196,8 @@
 &lt;p&gt;Dass sie dennoch einen Mann zu vermissen vorgibt, ist Ersatzhandlung als Erinnerung an eine Zeit, in der die von V verkörperte Idee des Umsturzes und des Unabgegoltenen als Antidote zur faschistischen Gegenwart ausreichte. &lt;em&gt;Nach&lt;/em&gt; dem Film und dessen Zukunft, im Jahre 2022, substituiert sie nur den Mangel an lebendigen und liebenswürdigen Personen, eher noch an Umständen, die dem abstrakt Erträumten tatsächlich Leben einhauchen könnten.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Feb 2022 00:00:00 +0100</pubDate>
-        <link>http://filmprojektor.net/articles/22/V-for-Vendetta</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/22/V-for-Vendetta</guid>
+        <link>http://localhost:4000/articles/22/V-for-Vendetta</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/V-for-Vendetta</guid>
         
         
         <category>post</category>
@@ -167,8 +235,8 @@ Konventionen und Bedürfnisse.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 09 Jan 2022 00:00:00 +0100</pubDate>
-        <link>http://filmprojektor.net/articles/22/A-Woman-under-the-influence-copy</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/22/A-Woman-under-the-influence-copy</guid>
+        <link>http://localhost:4000/articles/22/A-Woman-under-the-influence-copy</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/22/A-Woman-under-the-influence-copy</guid>
         
         
         <category>post</category>
@@ -220,8 +288,8 @@ Konventionen und Bedürfnisse.&lt;/p&gt;
 &lt;p&gt;Minnie und Moskowitz gibt es in mittelmäßiger Qualität auf Youtube zu sehen.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://filmprojektor.net/articles/21/Minnie-und-Moskowitz</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/21/Minnie-und-Moskowitz</guid>
+        <link>http://localhost:4000/articles/21/Minnie-und-Moskowitz</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Minnie-und-Moskowitz</guid>
         
         
         <category>post</category>
@@ -265,8 +333,8 @@ Dies ist genau das &lt;em&gt;Nichts&lt;/em&gt; Kevins, das er in seinem Inneren 
 kurzgeschorenen Haaren verschüchtert und gezeichnet in die Kamera gucken ‒ das Gegenteil von seiner einstigen Selbstsicherheit. Eva wirkt kalt und abgeklärt. Sie stellt zu Beginn des Gesprächs fest, das er nicht glücklich aussehe, woraufhin er entgegnet: »Have I ever?« Sie macht ihn darauf aufmerksam, daß heute der zweijährige Jahrestag seines Schulmassakers ist und er kurz vor seinem 18. Geburtstag stehe. Er weiß darum. Nun stellt sie zwei Jahre nach der ungeheuerlichen Tat die Frage: »I wan’t you to tell me, why?« Daraufhin entsteht eine lange Pause, sie schaut ihn aufmerksam, fragend an. In der nächsten Einstellung sieht man ihn, er guckt unsicher, aus dem Seitenprofil heraus, zurück und sagt, nachdem er länger nachgedacht und sie ihn weiter angeschaut hat, nach etwa 15 Sekunden Schweigen: »I used to think I knew. I’m not so sure.« Sie nickt. Er fürchtet vielleicht ihr Urteil. Plötzlich ist die Besuchszeit um und Kevin steht auf und geht ein/zwei Schritte auf sie zu. Sie nimmt ihn in den Arm. Und diesmal ist es echt. Es ist der Moment, in dem er all das bekommt, was er sein Leben lang entbehren mußte. Insofern läßt sich Lynne Ramsays Film als Kritik an Familienverhältnissen lesen, in denen Kinder ohne Liebe aufwachsen müssen und dadurch zu Monstern werden. Der Film ist nicht zuletzt eine Auseinandersetzung mit der relativ neuen Realität der Schulmassaker. Und wenn es erneut zu solch einem Schulmassaker kommt, stellt sich von Neuem die Frage nach dem Sinn. Die Antwort auf die Frage dürfte sein, daß der Sinn das radikale Nichts ist, die Verneinung allen Sinns. In solchen Situationen wird die Gesellschaft unmittelbar mit sich selber konfrontiert und der psychischen Gewalt, die sie auf den Einzelnen ausübt und damit solche Taten ermöglicht. Lynne Ramsay gelingt es, eine überzeugende Charakterstudie eines solchen Attentäters zu zeichnen.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Jun 2021 00:00:00 +0200</pubDate>
-        <link>http://filmprojektor.net/articles/21/We-Need-to-Talk-About-Kevin</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/21/We-Need-to-Talk-About-Kevin</guid>
+        <link>http://localhost:4000/articles/21/We-Need-to-Talk-About-Kevin</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/We-Need-to-Talk-About-Kevin</guid>
         
         
         <category>post</category>
@@ -375,8 +443,8 @@ der Haltung dieses scheinbar so einfachen Mannes steckt eine tiefe Weisheit, die
 verbalisiert zu werden braucht, weil sie sich in der alltäglichen Lebenspraxis »zeigt«.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
-        <link>http://filmprojektor.net/articles/21/Mann-ohne-Vergangenheit</link>
-        <guid isPermaLink="true">http://filmprojektor.net/articles/21/Mann-ohne-Vergangenheit</guid>
+        <link>http://localhost:4000/articles/21/Mann-ohne-Vergangenheit</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Mann-ohne-Vergangenheit</guid>
         
         
         <category>post</category>
