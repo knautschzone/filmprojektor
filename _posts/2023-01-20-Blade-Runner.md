@@ -1,11 +1,31 @@
 ---
 layout: post
-title:  "Mensch und Maschine in Blade Runner"
+title:  "Mensch-Maschinen in Blade Runner"
 date:   2023-01-20
 categories: post
 author: Simon
 subtitle: "Ridley Scott: Blade Runner"
 ---
+
+Eine erstaunliche Eigenart der Konzeption von Androiden{% marginnote "id-1" "In der Romanvorlage des Films ist die Rede von *organic Androids.* Ridley Scott nannte die Geschöpfe *Replikanten*, wohl weil Android nach Star Wars eine sehr blecherne Bedeutung annahm. George Lucas hatte das Wort *Robots* aus der Textvorlage von Star Wars wiederum in die Aphärese *Droids* geändert, so verwendet und schließlich sogar als Handelsmarke registriert." %} in der Welt von Blade Runner ist, dass diese sich in ihr unwesentlich und nur schwierig vom Menschen unterscheiden lassen. Ihrem Körper nach sowieso nicht, und in ihrer Disposition gleichen die artifiziellen Wesen verspielten Kindern oder zornigen Teenagern, eine Instabilität, die dadurch gemäßigt werden kann, pflanzt man ihnen künstliche Erinnerungen ein. Blade Runner werden Jäger genannt, deren Aufgabe es ist, geflohene Replikanten zu *identifizieren* und »still zu legen« (retire). 
+
+Im Laufe des Films nähern sich jedoch Jäger und Gejagte an. Der Film geht um den Blade Runner Robert Deckard, der am Ende mittels des Androidhaften des Replikanten mit der eingeschriebenen Aporie seines eigenen Menschseins konfrontiert wird.
+
+Replikant bezeichnet weniger die Abgrenzung zwischen ihrer Natur nach unterschiedenen Sachen (so wie Apfel und Birne), sondern erfüllt eine vielfache gesellschaftliche Funktion in der Welt von Blade Runner: letztendlich ist der Replikant der Fremde und zwar in dem Sinne, dass dessen Verlangen nach Selbstbestimmtheit nur Feindschaft und dessen Leid nur Stärke provoziert. Die Pointe am Ende besteht nicht darin, den Fremden zu integrieren (etwa: »der Replikant ist ja doch menschlich«), sondern darin, dass grade die Fremdheit des Replikanten es ist, die es überhaupt ermöglicht, die Bedeutung von *lebendig sein* zu erfassen. Der Replikant ist ein Wesen, dem sein Tod angesichts des eigentlich Schützenswerten, dem Leben, als größte Ungerechtigkeit gilt. Das Leben ist schön, aber vergänglich. 
+
+Die Dissonanz aushalten - oder die ganze Welt zerschmettern? Nachdem der Replikant Roy Batty, ein Kampfroboter, von seinem Erfinder erfährt, dass es keine Möglichkeit gibt, sein Leben zu verlängern. -> Die Rettung von Deckard
+
+Die Wut des Replikanten gilt dieser beinharten Tatsache.
+
+Donna Haraway hat Mitte der 80er Jahre entdeckt, dass im Verwischen der Grenzen zwischen Tier und Mensch und Tier-Mensch und Maschine - bedingt und vorangetrieben durch technische und wissenschaftliche Fortschrite der letzten Jahrzehnte - die Möglichkeit enthalten
+ ein konkret utopischer Gehalt gefunden, wie ihn Donna Haraway in der Gestalt des Cyborgs entdeckt:
+
+> In a sense, the cyborg has no "origin story" in the Western sense -- a "final" irony since the cyborg is also the awful apokalptic *telos* of the "West's" escalating deominations if abstract individuation, an ultimate self untied at last from all dependency, a man in space.
+
+Allerdings sind Donna Haraways Cyborgs unsterblich. Donna Haraway beschriebt aber sonst sehr genau - welche Entwicklungen der Cyborg bedingt - Mensch-Tier-Unterscheidung, Menschentier-Maschine-Unterschiedung, Physisch-Geisig-Unterscheidung
+
+Denn nicht nur das Schöne ist auf widersprüchliche Art ephemer, sondern umgekehrt -- hier muss ich mich wundern, wirklich sehr wundern -- ist das Schöne nur dann schön, wenn es ephemer ist und jeder Moment seines Fortbestehens eine die ganze Welt wert. Der Himmel ist langweilig; das Grinsen auf dem Gesicht von Roy ist selbst in seinen letzten Momenten schön. 
+
 
 
 ## It (which thinks)
@@ -69,4 +89,3 @@ Computer schon deswegen keine Metapher, weil Computer = the person, who computes
 
 https://documents-dds-ny.un.org/doc/UNDOC/GEN/N21/037/72/PDF/N2103772.pdf?OpenElement  -- S. 17 UN Bericht
 https://thebulletin.org/2021/05/was-a-flying-killer-robot-used-in-libya-quite-possibly/ -- Hintergründe
- -->
