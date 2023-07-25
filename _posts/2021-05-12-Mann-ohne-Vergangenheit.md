@@ -4,7 +4,7 @@ title:  "Die Hoffnung"
 date:   2021-05-12
 categories: post
 author: C.G.
-subtitle: "Aki Kaurismäki: Der Mann ohne Vergangenheit"
+subtitle: "Aki Kaurismäki: Der Mann ohne Vergangenheit (2002)"
 ---
 
 Das zentrale Thema des Films ist die Hoffnung.

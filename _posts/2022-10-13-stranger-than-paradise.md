@@ -4,7 +4,7 @@ title:  "Utopie und Alltag"
 date:   2022-10-13
 categories: post
 author: C.G.
-subtitle: "Jim Jarmuschs 'Stranger than Paradise'"
+subtitle: "Jim Jarmusch: Stranger than Paradise (1984)"
 ---
 
 Das Ausbrechen aus dem Alltag und seinen Alltäglichkeiten, dem ewigen Wechsel von Kurz- und Langeweile, und der Hoffnung, daß dies möglich sei, ist das zentrale Thema des Films. Er handelt vom prinzipiellen Scheitern des *american way of life* und dem Scheitern des *American Dream* im Allgemeinen. Er ist damit eine implizite Kritik an der Moderne und ein Loblied auf die Tradition. Und er entwirft die »Möglichkeit einer Insel«.
