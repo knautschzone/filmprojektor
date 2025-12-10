@@ -1,58 +1,30 @@
---- # this ensures Jekyll reads the file to be transformed into CSS later # only Main files contain this front matter,
-not partials. nav_exclude: true --- @import "../_sass/settings";
-
+/* This file contains all the constants for colors and font styles */
 body {
   hyphens: none;
 }
 
-nav .sign {
-  // min-height: 100%;
-  // display: flex;
-  // flex-direction: column;
-  // justify-content: center;
-  // align-items: center;
-
-  &__word {
-    font-size: 5.6rem;
-    text-align: center;
-    line-height: 1;
-    color: #ffffff;
-    animation: neon .12s ease-in-out infinite alternate;
-    font-family: "Vibur";
-    font-style: normal;
-    font-weight: normal;
-    text-transform: lowercase;
-    letter-spacing: normal;
-
-  }
+nav .sign__word {
+  font-size: 5.6rem;
+  text-align: center;
+  line-height: 1;
+  color: #ffffff;
+  animation: neon 0.12s ease-in-out infinite alternate;
+  font-family: "Vibur";
+  font-style: normal;
+  font-weight: normal;
+  text-transform: lowercase;
+  letter-spacing: normal;
 }
 
 /*-- Animation Keyframes --*/
-
-// animation
-
 @keyframes neon {
   from {
-    text-shadow:
-      0 0 6px rgba(241, 158, 235, 0.15),
-      0 0 30px rgba(241, 228, 225, 0.34),
-      0 0 12px rgba(198, 132, 242, 0.38),
-      0 0 21px rgba(198, 132, 242, 0.92),
-      0 0 34px rgba(198, 132, 242, 0.85),
-      0 0 54px rgba(198, 132, 242, 0.92);
+    text-shadow: 0 0 6px rgba(241, 158, 235, 0.15), 0 0 30px rgba(241, 228, 225, 0.34), 0 0 12px rgba(198, 132, 242, 0.38), 0 0 21px rgba(198, 132, 242, 0.92), 0 0 34px rgba(198, 132, 242, 0.85), 0 0 54px rgba(198, 132, 242, 0.92);
   }
-
   to {
-    text-shadow:
-      0 0 6px rgba(198, 228, 225, 0.78),
-      0 0 30px rgba(198, 132, 225, 0.52),
-      0 0 12px rgba(198, 132, 225, 0.78),
-      0 0 22px rgba(198, 132, 242, 0.84),
-      0 0 38px rgba(198, 132, 242, 0.88),
-      0 0 60px rgba(198, 132, 242, 1);
+    text-shadow: 0 0 6px rgba(198, 228, 225, 0.78), 0 0 30px rgba(198, 132, 225, 0.52), 0 0 12px rgba(198, 132, 225, 0.78), 0 0 22px rgba(198, 132, 242, 0.84), 0 0 38px rgba(198, 132, 242, 0.88), 0 0 60px rgb(198, 132, 242);
   }
 }
-
 .post-credits {
   font-size: 1.5rem;
   font-style: italic;
@@ -65,15 +37,14 @@ nav .sign {
   font-style: italic;
   padding-left: 0.5rem;
   padding-top: 2rem;
-  color: $text-color;
+  color: #fffff8;
 }
 
 .site-footer {
   position: absolute;
   bottom: 0;
   width: 55%;
-  height: 2.5rem;
-  /* Footer height */
+  height: 2.5rem; /* Footer height */
   padding-top: 0;
 }
 
@@ -85,7 +56,6 @@ nav .sign {
 .content-wrap {
   padding-bottom: 2.5rem;
 }
-
 
 .ytplayer-fullwidth {
   height: 600px;
@@ -99,10 +69,6 @@ figcaption {
   min-width: 40%;
 }
 
-p {
-  hyphens: auto;
-}
-
 .kommentarsektion {
   width: 55%;
 }
@@ -112,9 +78,8 @@ p {
   margin-top: 10px;
 }
 
-.kommentarsektion input,
-.kommentarsektion textarea {
-  background-color: $text-color;
+.kommentarsektion input, .kommentarsektion textarea {
+  background-color: #fffff8;
   border: none;
   padding: 3px;
 }
@@ -148,7 +113,7 @@ h4 {
   display: inline-block;
   padding-left: 18px;
   font-size: 1rem;
-  color: $text-color;
+  color: #fffff8;
   font-weight: normal;
 }
 
@@ -156,8 +121,7 @@ h4 {
   font-size: 1.6rem;
 }
 
-.marginnote,
-.sidenote {
+.marginnote, .sidenote {
   line-height: 1.44rem;
 }
 
@@ -165,7 +129,8 @@ figure.fullwidth figcaption {
   margin-left: 0;
 }
 
-figure,
-figure img.maincolumn {
+figure, figure img.maincolumn {
   margin-top: 1em;
 }
+
+/*# sourceMappingURL=site.css.map */
