@@ -9,23 +9,5 @@ nav_exclude: true
 <h2 class="subtitle">{{site.posts.first.subtitle}}</h2>
 
 
-<div>{{ site.posts.first.content }}</div> 
+<article>{{ site.posts.first.content }}</article> 
 <div class="post-credits"> {{site.posts.first.author}}</div>
-
-<div class="commentsection">
-  {% assign first = false %}
-  {% for comment in site.comments %}
-  {% include dates-german.html date=comment.date showDay=true %}
-  {% if comment.title == site.posts.first.title %}
-      {% if first == false %}
-      <h3>Kommentare</h3>
-      {% assign first = true %}
-      {% endif %}
-      <h4>{{comment.name}}<span class="commentdate">{{ formattedDate }}</span></h4>
-      <p>{{comment.content}}</p>
-  
-  {% endif %}
-  {% endfor %}
-  </div>
-
-<p></p>

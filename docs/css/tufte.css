@@ -93,7 +93,8 @@
   font-weight: bold;
   font-style: normal;
 }
-/* This file contains all the constants for colors and font styles */ /**
+/* This file contains all the constants for colors and font styles */
+/**
  * Syntax highlighting styles
  */
 /* This file contains all the constants for colors and font styles */
@@ -513,7 +514,7 @@ th, td {
 }
 
 .booktabs th.cmid, th {
-  border-bottom: 1px solid #737373;
+  border-bottom: 1px solid rgb(114.75, 114.75, 114.75);
 }
 
 .booktabs th.nocmid {
