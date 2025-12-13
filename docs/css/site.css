@@ -44,7 +44,8 @@ nav .sign__word {
   position: absolute;
   bottom: 0;
   width: 55%;
-  height: 2.5rem; /* Footer height */
+  height: 2.5rem;
+  /* Footer height */
   padding-top: 0;
 }
 
@@ -78,7 +79,8 @@ figcaption {
   margin-top: 10px;
 }
 
-.kommentarsektion input, .kommentarsektion textarea {
+.kommentarsektion input,
+.kommentarsektion textarea {
   background-color: #fffff8;
   border: none;
   padding: 3px;
@@ -121,7 +123,8 @@ h4 {
   font-size: 1.6rem;
 }
 
-.marginnote, .sidenote {
+.marginnote,
+.sidenote {
   line-height: 1.44rem;
 }
 
@@ -129,8 +132,13 @@ figure.fullwidth figcaption {
   margin-left: 0;
 }
 
-figure, figure img.maincolumn {
+figure,
+figure img.maincolumn {
   margin-top: 1em;
+}
+
+article p {
+  hyphens: auto;
 }
 
 /*# sourceMappingURL=site.css.map */

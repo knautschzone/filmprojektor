@@ -378,7 +378,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding-left: 12.5%;
-  font-family: "Barlow", "PT Sans", ETBembo, "Chronicle Text G2", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: "Barlow", "PT Sans", ETBembo, "Chronicle Text G2", sans-serif;
   background-color: #111;
   color: #fffff8;
   max-width: 1400px;
@@ -479,7 +479,7 @@ blockquote footer {
                     text-align: right; }
 */
 .sans {
-  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
+  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", sans-serif;
   letter-spacing: 0.03em;
 }
 
@@ -640,7 +640,6 @@ blockquote .sidenote, blockquote .marginnote {
 
 .sidenote-number:after, .sidenote:before {
   content: counter(sidenote-counter) " ";
-  font-family: et-bembo-roman-old-style;
   color: rgb(197, 116, 184);
   position: relative;
   vertical-align: baseline;
@@ -654,7 +653,7 @@ blockquote .sidenote, blockquote .marginnote {
 }
 
 .sidenote:before {
-  content: counter(sidenote-counter) ". ";
+  content: counter(sidenote-counter) "  ";
   color: rgb(197, 116, 184);
   top: 0rem;
 }
@@ -792,7 +791,7 @@ header > nav.group, body footer {
 
 header > nav a {
   font-size: 1.2rem;
-  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
+  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", sans-serif;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: rgb(197, 116, 184);
@@ -834,7 +833,7 @@ ul.footer-links li {
 }
 
 .credits {
-  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
+  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", sans-serif;
 }
 .credits a {
   color: rgb(197, 116, 184);
@@ -925,7 +924,7 @@ hr.slender {
     font-size: 12pt;
   }
   html body span.print-footer {
-    font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
+    font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", sans-serif;
     font-size: 9pt;
     margin-top: 22.4pt;
     padding-top: 4pt;

@@ -26,7 +26,7 @@ body {
 }
 
 html body span.print-footer {
-  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
+  font-family: "Barlow", "PT Sans", "Gill Sans", "Gill Sans MT", sans-serif;
   font-size: 9pt;
   margin-top: 22.4pt;
   padding-top: 4pt;
